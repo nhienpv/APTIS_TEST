@@ -1,0 +1,71 @@
+    <!DOCTYPE html>
+    <html lang="vi">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Luyện Thi Tiếng Anh</title>
+        <link rel="stylesheet" href="styles.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    </head>
+    <body>
+
+        <div class="container">
+            <!-- Màn hình chính: Chọn Luyện tập hoặc Thi thử -->
+            <div id="main-menu">
+                <h1>Luyện Thi APTIS</h1>
+                <h2>Vui lòng chọn chế độ</h2>
+                <div id="mode-buttons">
+                    <button id="practice-btn">Luyện tập</button>
+                    <button id="mock-test-btn">Thi thử</button>
+                </div>
+            </div>
+
+            <!-- Màn hình 2: Chọn Kỹ năng -->
+            <div id="skill-selection-screen" style="display: none;">
+                <h1 id="skill-selection-title"></h1>
+                <h2>Vui lòng chọn kỹ năng</h2>
+                <div id="skill-buttons">
+                    <button id="reading-skill-btn">Reading</button>
+                    <button id="listening-skill-btn">Listening</button>
+                </div>
+                <div class="button-container">
+                    <button class="back-to-main">Quay Lại</button>
+                </div>
+            </div>
+
+            <!-- Màn hình 3: Chọn bài Test (Chỉ dành cho chế độ Luyện tập) -->
+            <div id="test-selection-screen" style="display: none;">
+                <h1 id="test-selection-title"></h1>
+                <h2>Vui lòng chọn đề thi</h2>
+                <div id="test-buttons"></div>
+                <div class="button-container">
+                    <button class="back-to-skill-selection">Quay Lại</button>
+                </div>
+            </div>
+
+            <!-- Màn hình 4: Hiển thị bài thi -->
+            <div id="test-container" style="display: none;">
+                <!-- Nút quay lại ở đầu trang (chỉ hiện trong chế độ luyện tập) -->
+                <div id="top-back-button" class="top-back-container" style="display: none;">
+                    <button class="back-to-selection-top">← Quay lại</button>
+                </div>
+                <h1 id="test-title"></h1>
+                <div id="test-content">
+                    <!-- Nội dung bài test sẽ được chèn vào đây -->
+                </div>
+                <div id="final-controls" class="button-container">
+                    <div class="result" id="finalResult"></div>
+                    <button id="submitBtn">Nộp bài</button>
+                    <button id="resetBtn">Làm lại</button>
+                    <button class="back-to-selection">Quay lại</button>
+                </div>
+            </div>
+        </div>
+        
+        <script src="skills/reading.js"></script>
+        <script src="skills/listening.js"></script>
+        <script src="script.js"></script>
+    </body>
+    </html>

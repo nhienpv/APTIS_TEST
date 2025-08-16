@@ -1,0 +1,3166 @@
+{
+    "TEST_1": {
+        "title": "Bài Luyện Tập Reading - Test 1",
+        "task1": {
+            "title": "Task 1: Read the email from a person to his/her friend.",
+            "instruction": "Choose one word from the list for each gap.",
+            "questions": [
+                {
+                    "before": "It is a ",
+                    "options": [
+                        "long",
+                        "red",
+                        "tall"
+                    ],
+                    "after": " day."
+                },
+                {
+                    "before": "I need the ",
+                    "options": [
+                        "work",
+                        "detail",
+                        "job"
+                    ],
+                    "after": " of the report."
+                },
+                {
+                    "before": "Can you print a ",
+                    "options": [
+                        "information",
+                        "pencil",
+                        "copy"
+                    ],
+                    "after": " for me?"
+                },
+                {
+                    "before": "I am ",
+                    "options": [
+                        "table",
+                        "round",
+                        "busy"
+                    ],
+                    "after": " with my work."
+                },
+                {
+                    "before": "I will have meetings with my ",
+                    "options": [
+                        "dog",
+                        "wife",
+                        "client"
+                    ],
+                    "after": "."
+                }
+            ]
+        },
+        "task2": {
+            "title": "Task 2: Put the sentences in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "Buying a new house ..."
+                },
+                {
+                    "order": 2,
+                    "text": "The first and most important thing is to choose the location"
+                },
+                {
+                    "order": 3,
+                    "text": "In order to choose the right place, you need to consider several factors"
+                },
+                {
+                    "order": 4,
+                    "text": "The most important of these to look at is the price of homes"
+                },
+                {
+                    "order": 5,
+                    "text": "Other factors to look at is the place of employment, shops and schools"
+                },
+                {
+                    "order": 6,
+                    "text": "Such requirements of course depend on you personal circumstances"
+                }
+            ]
+        },
+        "task3": {
+            "title": "Task 3: Put the sentences below in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "Using public cycle..."
+                },
+                {
+                    "order": 2,
+                    "text": "Go to the collection point and click on the screen to choose the bike with your bank card"
+                },
+                {
+                    "order": 3,
+                    "text": "Choose \"hire the cycle\" on the screen and then follow the instructions to receive an unlock code."
+                },
+                {
+                    "order": 4,
+                    "text": "Enter the code on the lock of the bike and wait for the green lights"
+                },
+                {
+                    "order": 5,
+                    "text": "When the light comes, you can unlock your bike and start your journey"
+                },
+                {
+                    "order": 6,
+                    "text": "When you finish your journey, return the bike to any empty collection point"
+                }
+            ]
+        },
+        "task4": {
+            "title": "Task 4: Four people respond...",
+            "readingTextParts": [
+                {
+                    "person": "A",
+                    "text": "I feel very lucky to have this park here. My family and I often go to the park because of the natural landscape here. It's different from the city, which is very busy and full of dust. Unfortunately, I am away this weekend so I cannot help with the cleaning. However, I know my brother and his friends will be very interested in this cleanup so I will ask them if they can help."
+                },
+                {
+                    "person": "B",
+                    "text": "I'm a very busy person and I have to spend this weekend with my family because I only have the weekend as free time. I think young people who don't have families should help. Besides, students and schools also have days off on weekends. I think this volunteering will be very helpful for students' future careers."
+                },
+                {
+                    "person": "C",
+                    "text": "I think this volunteering is a good idea but it doesn't have a long-term vision. When volunteers clean up the park, it will be clean, but it will become busy again after about a month when tourist season arrives. I think we should clean this park regularly about once a month. Surrounding areas such as the lake and local forest should also be cleaned up. We should also have signs telling visitors to clean up their trash. I am very upset when I see a lot of trash on both sides of the road."
+                },
+                {
+                    "person": "D",
+                    "text": "My family and I often spend time at the park. My children love going to the park and they find the park a very interesting place to visit. My son has a dream of becoming a biologist so I think cleaning up this park will be very helpful for my son. I think we should pique children's interest in cleaning. They will be more willing to volunteer and help others."
+                }
+            ],
+            "questions": [
+                {
+                    "name": "q4_1",
+                    "text": "Who thinks the park is a beautiful place to relax?"
+                },
+                {
+                    "name": "q4_2",
+                    "text": "Who thinks volunteering will help with future employment?"
+                },
+                {
+                    "name": "q4_3",
+                    "text": "Who thinks local areas need cleaning?"
+                },
+                {
+                    "name": "q4_4",
+                    "text": "Who will ask for others to help?"
+                },
+                {
+                    "name": "q4_5",
+                    "text": "Who can't clean the park because of their busy work?"
+                },
+                {
+                    "name": "q4_6",
+                    "text": "Who thinks the cleaning needs to be done regularly?"
+                },
+                {
+                    "name": "q4_7",
+                    "text": "Who thinks volunteering is important for students?"
+                }
+            ]
+        },
+        "task5": {
+            "title": "Task 5: Choose a heading for each numbered paragraph (1–7).",
+            "topic": "History of Zoos",
+            "options": [
+                "Symbol of privilege and wealth",
+                "A modern day alternative",
+                "Away from amusement towards instruction",
+                "A different set of values",
+                "Away from enclosure towards greater freedom",
+                "A new mission of conversation",
+                "Opening the door for everyone"
+            ],
+            "answers": [
+                "Symbol of privilege and wealth",
+                "Opening the door for everyone",
+                "Away from amusement towards instruction",
+                "Away from enclosure towards greater freedom",
+                "A different set of values",
+                "A new mission of conversation",
+                "A modern day alternative"
+            ]
+        },
+        "answers": {
+            "task1": {
+                "q1_1": "long",
+                "q1_2": "detail",
+                "q1_3": "copy",
+                "q1_4": "busy",
+                "q1_5": "client"
+            },
+            "task2_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task3_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task4": {
+                "q4_1": "A",
+                "q4_2": "B",
+                "q4_3": "C",
+                "q4_4": "A",
+                "q4_5": "B",
+                "q4_6": "C",
+                "q4_7": "D"
+            },
+            "task5": {
+                "q5_1": "Symbol of privilege and wealth",
+                "q5_2": "Opening the door for everyone",
+                "q5_3": "Away from amusement towards instruction",
+                "q5_4": "Away from enclosure towards greater freedom",
+                "q5_5": "A different set of values",
+                "q5_6": "A new mission of conversation",
+                "q5_7": "A modern day alternative"
+            }
+        }
+    },
+    "TEST_2": {
+        "title": "Bài Luyện Tập Reading - Test 2",
+        "task1": {
+            "title": "Task 1: Read the email from a person to his/her friend.",
+            "instruction": "Choose one word from the list for each gap.",
+            "questions": [
+                {
+                    "before": "I am never ",
+                    "options": [
+                        "late",
+                        "soon",
+                        "then"
+                    ],
+                    "after": "."
+                },
+                {
+                    "before": "In the mornings, I attend ",
+                    "options": [
+                        "meetings",
+                        "dinner",
+                        "breakfast"
+                    ],
+                    "after": "."
+                },
+                {
+                    "before": "I eat lunch in the ",
+                    "options": [
+                        "park",
+                        "storage",
+                        "book store"
+                    ],
+                    "after": "."
+                },
+                {
+                    "before": "I buy food from the ",
+                    "options": [
+                        "shop",
+                        "car",
+                        "window"
+                    ],
+                    "after": "."
+                },
+                {
+                    "before": "I always ",
+                    "options": [
+                        "drink",
+                        "cook",
+                        "breathe"
+                    ],
+                    "after": " dinner for myself."
+                }
+            ]
+        },
+        "task2": {
+            "title": "Task 2: Put the sentences in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "Natural history center"
+                },
+                {
+                    "order": 2,
+                    "text": "The most important of these is the Natural history centre"
+                },
+                {
+                    "order": 3,
+                    "text": "The entrance of the centre is on the town's main square."
+                },
+                {
+                    "order": 4,
+                    "text": "When you enter the building from the square, you will see a set of stairs to your left"
+                },
+                {
+                    "order": 5,
+                    "text": "The ticket office is on the top of these stairs, the staff there are very helpful."
+                },
+                {
+                    "order": 6,
+                    "text": "As well as selling tickets, they can provide maps and useful tour information"
+                }
+            ]
+        },
+        "task3": {
+            "title": "Task 3: Put the sentences below in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "Traffic lights"
+                },
+                {
+                    "order": 2,
+                    "text": "They were out of order and the traffic moved very slowly."
+                },
+                {
+                    "order": 3,
+                    "text": "This created long delays in the roads to the city's business district."
+                },
+                {
+                    "order": 4,
+                    "text": "As a result of these delays, many people were not able to get to work on time."
+                },
+                {
+                    "order": 5,
+                    "text": "Fortunately, in the evening, the traffic lights were working again."
+                },
+                {
+                    "order": 6,
+                    "text": "Therefore, there were no further delays for people going back home."
+                }
+            ]
+        },
+        "task4": {
+            "title": "Task 4: Four people respond...",
+            "readingTextParts": [
+                {
+                    "person": "Ali",
+                    "text": "I like traveling to the beach. I think I have to walk quite a distance from the hotel to the beach so I think I have to bring boots. however, when I opened the suitcase I didn't see any boots. But I still completed the trip and visited many beautiful beaches. One great thing is that the beaches are in remote areas so there are very few tourists. However, it also makes finding food and drinks more difficult."
+                },
+                {
+                    "person": "Bruno",
+                    "text": "As an architect, I have always been interested in how buildings are constructed. So when I travel, I never spend time lying on the beach or buying souvenirs. I will go around the area to see the architecture of the houses. I chose to go around by taxi, it was great. However, it cost me a lot because I traveled alone and had no one to share the costs with. But for me this was still a great experience because I got to see many old houses"
+                },
+                {
+                    "person": "Carla",
+                    "text": "The sharp bends of the island made me abandon the idea of ​​renting a car, because it was very dangerous. I decided to take the bus, it was also much cheaper. However, the bus routes are quite few and there are many time constraints. We toured the neighborhoods on foot. I loved this experience because I could see many beautiful sights."
+                },
+                {
+                    "person": "Deniz",
+                    "text": "There's a lot of food here and I spend most of my time eating. I can't recommend any of the dishes because they are all very impressive. If you want to cook for yourself, you will have to take the bus to the market. Don't forget to visit the street market because they sell a lot of cool local products. I have a lot of good bargains there."
+                }
+            ],
+            "questions": [
+                {
+                    "name": "q4_1",
+                    "text": "Who forgot to bring something?"
+                },
+                {
+                    "name": "q4_2",
+                    "text": "Who liked to be alone?"
+                },
+                {
+                    "name": "q4_3",
+                    "text": "Who loved eating food here?"
+                },
+                {
+                    "name": "q4_4",
+                    "text": "Who liked buying things on the island?"
+                },
+                {
+                    "name": "q4_5",
+                    "text": "Who spent a lot of money on transport?"
+                },
+                {
+                    "name": "q4_6",
+                    "text": "Who thought public transport could be improved?"
+                },
+                {
+                    "name": "q4_7",
+                    "text": "Who liked to walk?"
+                }
+            ]
+        },
+        "task5": {
+            "title": "Task 5: Choose a heading for each numbered paragraph (1–7).",
+            "topic": "Coffee",
+            "options": [
+                "A remedy of unjust revenue distribution",
+                "A habit that has become a big economy",
+                "Health risks versus health benefits debate",
+                "The custom of coffee drinking begins to spread",
+                "The ancient origin of coffee",
+                "Coffee encourages",
+                "Problems of coffee economy"
+            ],
+            "answers": [
+                "The custom of coffee drinking begins to spread",
+                "Coffee encourages",
+                "A habit that has become a big economy",
+                "Problems of coffee economy",
+                "A remedy of unjust revenue distribution",
+                "Health risks versus health benefits debate",
+                "The ancient origin of coffee"
+            ]
+        },
+        "answers": {
+            "task1": {
+                "q1_1": "late",
+                "q1_2": "meetings",
+                "q1_3": "park",
+                "q1_4": "shop",
+                "q1_5": "cook"
+            },
+            "task2_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task3_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task4": {
+                "q4_1": "Ali",
+                "q4_2": "Ali",
+                "q4_3": "Deniz",
+                "q4_4": "Deniz",
+                "q4_5": "Bruno",
+                "q4_6": "Carla",
+                "q4_7": "Carla"
+            },
+            "task5": {
+                "q5_1": "The custom of coffee drinking begins to spread",
+                "q5_2": "Coffee encourages",
+                "q5_3": "A habit that has become a big economy",
+                "q5_4": "Problems of coffee economy",
+                "q5_5": "A remedy of unjust revenue distribution",
+                "q5_6": "Health risks versus health benefits debate",
+                "q5_7": "The ancient origin of coffee"
+            }
+        }
+    },
+    "TEST_3": {
+        "title": "Bài Luyện Tập Reading - Test 3",
+        "task1": {
+            "title": "Task 1: Read the email from a person to his/her friend.",
+            "instruction": "Choose one word from the list for each gap.",
+            "questions": [
+                {
+                    "before": "My colleague is ",
+                    "options": [
+                        "sick",
+                        "white",
+                        "origin"
+                    ],
+                    "after": "."
+                },
+                {
+                    "before": "I need to ",
+                    "options": [
+                        "read",
+                        "drink",
+                        "eat"
+                    ],
+                    "after": " some reports."
+                },
+                {
+                    "before": "I have an important ",
+                    "options": [
+                        "sleep",
+                        "meeting",
+                        "remote"
+                    ],
+                    "after": " with a client."
+                },
+                {
+                    "before": "The phone in my office is ",
+                    "options": [
+                        "ringing",
+                        "singing",
+                        "cooking"
+                    ],
+                    "after": " all the time."
+                },
+                {
+                    "before": "I need to take a break and ",
+                    "options": [
+                        "drink",
+                        "eat",
+                        "watch"
+                    ],
+                    "after": " coffee."
+                }
+            ]
+        },
+        "task2": {
+            "title": "Task 2: Put the sentences in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "Enter the conference hall"
+                },
+                {
+                    "order": 2,
+                    "text": "When you collect you pack, go to the lifts on the right"
+                },
+                {
+                    "order": 3,
+                    "text": "Take the lift to the third floor and go to the main desk"
+                },
+                {
+                    "order": 4,
+                    "text": "Show your pass from the conference pack to a member of staff at the desk"
+                },
+                {
+                    "order": 5,
+                    "text": "He or she will tell you your seat number for the talk at the main hall"
+                },
+                {
+                    "order": 6,
+                    "text": "Once you are in the hall, someone will help you find your seat"
+                }
+            ]
+        },
+        "task3": {
+            "title": "Task 3: Put the sentences below in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "Enter the animal hospital"
+                },
+                {
+                    "order": 2,
+                    "text": "When you arrive, go straight to the main office to collect your ticket"
+                },
+                {
+                    "order": 3,
+                    "text": "You will need to show this to a member of staff at the door before you enter"
+                },
+                {
+                    "order": 4,
+                    "text": "Inside the building, you will find a photography exhibition on the ground floor"
+                },
+                {
+                    "order": 5,
+                    "text": "Before you look at the pictures, a guide will tell you about the day’s event"
+                },
+                {
+                    "order": 6,
+                    "text": "These activities will include playing and feeding the animals"
+                }
+            ]
+        },
+        "task4": {
+            "title": "Task 4: Four people respond...",
+            "readingTextParts": [
+                {
+                    "person": "A",
+                    "text": "I know a little about famous painters and their works. But I don't like going to art exhibitions unless my friend invites me. I like extracurricular activities more, painting exhibitions seem too quiet to me. I like to draw, and I have been drawing ever since I can remember. My forte in drawing is animals, especially big and ferocious animals."
+                },
+                {
+                    "person": "B",
+                    "text": "I find going to see paintings similar to reading books. You must look and read before discussing. When I go to exhibitions with my friends, they often talk before seeing the painting, and what they talk about isn't even about the painting, that's annoy me."
+                },
+                {
+                    "person": "C",
+                    "text": "I find polite art very fascinating. I often go to talks about arts and I have gone to many foreign art exhibitions and artists' houses. It's great to see their works and where they worked."
+                },
+                {
+                    "person": "D",
+                    "text": "My parents often took me to see art exhibitions when I was a child. and I think that habit remains. Currently, I often take my children to the exhibition, which is a lovely activity for me. I often ask my children to do other activities while looking at pictures, for example, think of a story for that picture, so they don't get bored."
+                }
+            ],
+            "questions": [
+                {
+                    "name": "q4_1",
+                    "text": "Who thinks visitors should focus on the art?"
+                },
+                {
+                    "name": "q4_2",
+                    "text": "Who has a good knowledge of art?"
+                },
+                {
+                    "name": "q4_3",
+                    "text": "Who has some artistic skills?"
+                },
+                {
+                    "name": "q4_4",
+                    "text": "Who thinks seeing exhibitions is a boring activity?"
+                },
+                {
+                    "name": "q4_5",
+                    "text": "Who prefers seeing exhibitions by themselves?"
+                },
+                {
+                    "name": "q4_6",
+                    "text": "Who prefers going to art exhibitions with other people?"
+                },
+                {
+                    "name": "q4_7",
+                    "text": "Who has been going to art exhibitions all their life?"
+                }
+            ]
+        },
+        "task5": {
+            "title": "Task 5: Choose a heading for each numbered paragraph (1–7).",
+            "topic": "Consumer age",
+            "options": [
+                "The reason of secrecy",
+                "Making things last longer",
+                "Still relevant to our times",
+                "A temporary experiment",
+                "Reason to reach a compromise",
+                "Important lessons for all of us",
+                "The difficulty of being generous"
+            ],
+            "answers": [
+                "Making things last longer",
+                "A temporary experiment",
+                "The reason of secrecy",
+                "Still relevant to our times",
+                "The difficulty of being generous",
+                "Reason to reach a compromise",
+                "Important lessons for all of us"
+            ]
+        },
+        "answers": {
+            "task1": {
+                "q1_1": "sick",
+                "q1_2": "read",
+                "q1_3": "meeting",
+                "q1_4": "ringing",
+                "q1_5": "drink"
+            },
+            "task2_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task3_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task4": {
+                "q4_1": "B",
+                "q4_2": "C",
+                "q4_3": "A",
+                "q4_4": "A",
+                "q4_5": "B",
+                "q4_6": "D",
+                "q4_7": "D"
+            },
+            "task5": {
+                "q5_1": "Making things last longer",
+                "q5_2": "A temporary experiment",
+                "q5_3": "The reason of secrecy",
+                "q5_4": "Still relevant to our times",
+                "q5_5": "The difficulty of being generous",
+                "q5_6": "Reason to reach a compromise",
+                "q5_7": "Important lessons for all of us"
+            }
+        }
+    },
+    "TEST_4": {
+        "title": "Bài Luyện Tập Reading - Test 4",
+        "task1": {
+            "title": "Task 1: Read the email from a person to his/her friend.",
+            "instruction": "Choose one word from the list for each gap.",
+            "questions": [
+                {
+                    "before": "I start ",
+                    "options": [
+                        "sleep",
+                        "early",
+                        "angry"
+                    ],
+                    "after": " in the morning."
+                },
+                {
+                    "before": "I have ",
+                    "options": [
+                        "lunch",
+                        "bed",
+                        "tutor"
+                    ],
+                    "after": "."
+                },
+                {
+                    "before": "I ",
+                    "options": [
+                        "go",
+                        "leave",
+                        "return"
+                    ],
+                    "after": " the office."
+                },
+                {
+                    "before": "I go home in my new ",
+                    "options": [
+                        "jeans",
+                        "car",
+                        "bag"
+                    ],
+                    "after": "."
+                },
+                {
+                    "before": "I go to bed when I feel ",
+                    "options": [
+                        "alert",
+                        "angry",
+                        "sleepy"
+                    ],
+                    "after": "."
+                }
+            ]
+        },
+        "task2": {
+            "title": "Task 2: Put the sentences in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "Betty Barr's life"
+                },
+                {
+                    "order": 2,
+                    "text": "She was born in Shanghai in 1933 to a American mother and a father from Scotland"
+                },
+                {
+                    "order": 3,
+                    "text": "At that time, Shanghai is a city filled with many people from different countries"
+                },
+                {
+                    "order": 4,
+                    "text": "After she finished her school, she went to Wellesley College, a famous university in USA"
+                },
+                {
+                    "order": 5,
+                    "text": "However, she missed China, and applied for a job in Hong Kong, where she taught from 1959 to 1972, and learnt to speak Cantonese, the local language"
+                },
+                {
+                    "order": 6,
+                    "text": "In the 1980s, she finally returned to China and still lives with her Shanghai husband, George Wang."
+                }
+            ]
+        },
+        "task3": {
+            "title": "Task 3: Put the sentences below in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "My first car"
+                },
+                {
+                    "order": 2,
+                    "text": "I have just passed the test, and I am the proud owner of the driving license"
+                },
+                {
+                    "order": 3,
+                    "text": "However, I did not have a car and my parents would not let me drive theirs"
+                },
+                {
+                    "order": 4,
+                    "text": "So, when I saw an advertisement on the local newspaper for a cheap second hand car, I did not waste a time"
+                },
+                {
+                    "order": 5,
+                    "text": "I called the number in that advert and arranged a meeting to meet the owner on the other side of the town"
+                },
+                {
+                    "order": 6,
+                    "text": "We agreed on a price and when I handed over the money, he gave me the keys."
+                }
+            ]
+        },
+        "task4": {
+            "title": "Task 4: Four people respond...",
+            "readingTextParts": [
+                {
+                    "person": "A",
+                    "text": "My wife often complains about not having time to read, and I say we have to make our own time. So, I often calculate my free time on my phone. so I can know in advance whether I should bring a book to read on the train. My wife often laughs at me for doing so, but I don't mind, as long as I can finish reading so many books."
+                },
+                {
+                    "person": "B",
+                    "text": "I used to struggle very much to finish reading a book that we were expected to read. However, now that I read for my own pleasure, I don't mind too much. I usually don't limit myself to reading one at a time. There are so many titles I can choose from that get me excited. I have a list of books that I want to read in the future."
+                },
+                {
+                    "person": "C",
+                    "text": "I often keep a book on the bedside table to read before going to bed. The problem is, I get tired after reading only half of a page, and I fall asleep. So, I've been reading that one book for half a year now and have only read chapter However, when I read factual books, I find it very interesting and it keeps me awake for hours."
+                },
+                {
+                    "person": "D",
+                    "text": "My job requires reading a lot of books. These books include a lot of facts and figures and they are very boring. When I have free time, I usually want to read light books, like mystery novels or comedy. I often read on the train to work. I have a young child, so when I come home I almost don't have time to read. Therefore, I have to read books when traveling by train. So, a book can last me 1 week."
+                }
+            ],
+            "questions": [
+                {
+                    "name": "q4_1",
+                    "text": "Who plans their reading schedule?"
+                },
+                {
+                    "name": "q4_2",
+                    "text": "Who wants to read a lot of books?"
+                },
+                {
+                    "name": "q4_3",
+                    "text": "Who is having difficulty in fishing a book?"
+                },
+                {
+                    "name": "q4_4",
+                    "text": "Who thinks that factual books are boring?"
+                },
+                {
+                    "name": "q4_5",
+                    "text": "Who has limited time to read books?"
+                },
+                {
+                    "name": "q4_6",
+                    "text": "Who reads more than another family member?"
+                },
+                {
+                    "name": "q4_7",
+                    "text": "Who reads many books at once?"
+                }
+            ]
+        },
+        "task5": {
+            "title": "Task 5: Choose a heading for each numbered paragraph (1–7).",
+            "topic": "Early Australia",
+            "options": [
+                "Natural barrier to resettlement",
+                "Determination of the explorers through the ages",
+                "Lack of knowledge and skills",
+                "A new evidence that leads to speculation",
+                "A Journey made by stages",
+                "Technology helps uncover the ocean's secret",
+                "An alternative history of settlement"
+            ],
+            "answers": [
+                "An alternative history of settlement",
+                "Natural barrier to resettlement",
+                "Technology helps uncover the ocean's secret",
+                "A Journey made by stages",
+                "A new evidence that leads to speculation",
+                "Lack of knowledge and skills",
+                "Determination of the explorers through the ages"
+            ]
+        },
+        "answers": {
+            "task1": {
+                "q1_1": "early",
+                "q1_2": "lunch",
+                "q1_3": "leave",
+                "q1_4": "car",
+                "q1_5": "sleepy"
+            },
+            "task2_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task3_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task4": {
+                "q4_1": "A",
+                "q4_2": "B",
+                "q4_3": "C",
+                "q4_4": "D",
+                "q4_5": "D",
+                "q4_6": "A",
+                "q4_7": "B"
+            },
+            "task5": {
+                "q5_1": "An alternative history of settlement",
+                "q5_2": "Natural barrier to resettlement",
+                "q5_3": "Technology helps uncover the ocean's secret",
+                "q5_4": "A Journey made by stages",
+                "q5_5": "A new evidence that leads to speculation",
+                "q5_6": "Lack of knowledge and skills",
+                "q5_7": "Determination of the explorers through the ages"
+            }
+        }
+    },
+    "TEST_5": {
+        "title": "Bài Luyện Tập Reading - Test 5",
+        "task1": {
+            "title": "Task 1: Read the email from a person to his/her friend.",
+            "instruction": "Choose one word from the list for each gap.",
+            "questions": [
+                {
+                    "before": "Everyone is ",
+                    "options": [
+                        "friendly",
+                        "melty",
+                        "noisy"
+                    ],
+                    "after": "."
+                },
+                {
+                    "before": "I can ",
+                    "options": [
+                        "train",
+                        "sleep",
+                        "walk"
+                    ],
+                    "after": " to my class."
+                },
+                {
+                    "before": "I met her for the ",
+                    "options": [
+                        "one",
+                        "first",
+                        "very"
+                    ],
+                    "after": " time."
+                },
+                {
+                    "before": "She can ",
+                    "options": [
+                        "say",
+                        "speak",
+                        "talk"
+                    ],
+                    "after": " 5 languages."
+                },
+                {
+                    "before": "We eat dinner ",
+                    "options": [
+                        "together",
+                        "toward",
+                        "another"
+                    ],
+                    "after": "."
+                }
+            ]
+        },
+        "task2": {
+            "title": "Task 2: Put the sentences in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "Key card"
+                },
+                {
+                    "order": 2,
+                    "text": "To enter the building and use the lift, you will need your key card"
+                },
+                {
+                    "order": 3,
+                    "text": "If you lose this, you will need to see the staff member at the front desk"
+                },
+                {
+                    "order": 4,
+                    "text": "He or she will ask for your name and your flat number, and then will write these down"
+                },
+                {
+                    "order": 5,
+                    "text": "You will also need to show you identification card"
+                },
+                {
+                    "order": 6,
+                    "text": "He or she will make a copy of it and give you a new key card"
+                }
+            ]
+        },
+        "task3": {
+            "title": "Task 3: Put the sentences below in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "Tom Harper"
+                },
+                {
+                    "order": 2,
+                    "text": "When he was young, he began writing short stories for a magazine."
+                },
+                {
+                    "order": 3,
+                    "text": "He soon wrote regularly for the magazine, but he was not satisfied."
+                },
+                {
+                    "order": 4,
+                    "text": "He almost left the magazine, but then he decided to create some unusual new characters."
+                },
+                {
+                    "order": 5,
+                    "text": "The characters he imagined were one of the most famous in the world"
+                },
+                {
+                    "order": 6,
+                    "text": "This popularity made Tome Harper rich and successful."
+                }
+            ]
+        },
+        "task4": {
+            "title": "Task 4: Four people respond...",
+            "readingTextParts": [
+                {
+                    "person": "A",
+                    "text": "I know I have to spend time studying but there are so many great TV shows. especially horror tv shows, once you watch it, you will be glued to it and can't stop watching. Besides, these TV shows often last for many weeks."
+                },
+                {
+                    "person": "B",
+                    "text": "I often spend time watching news on TV in the evening when I'm free. In the past, I often watched the soccer team I like on TV, but they often lost, so I gave up watching them. Nowadays there are too many reality TV shows being shown on TV. Every time I see these shows, I turn it off and do more interesting things."
+                },
+                {
+                    "person": "C",
+                    "text": "I wasn't good when I was in school because I often spent time watching cartoons on TV. However, I now watch nature documentaries and TV shows about science, history, and business. This helps me expand my knowledge a lot compared to when I was in school."
+                },
+                {
+                    "person": "D",
+                    "text": "My husband usually schedules TV viewing for the weekend, he usually watches football or documentaries. I'm the opposite. I just turn on the TV and it doesn't matter what program it is, because I just need to relax. However, I also want to update news about movies. not just movies, but also songs. I also find reality TV shows very entertaining."
+                }
+            ],
+            "questions": [
+                {
+                    "name": "q4_1",
+                    "text": "Who watches TV instead of studying?"
+                },
+                {
+                    "name": "q4_2",
+                    "text": "Who likes TV programs which continue over several weeks?"
+                },
+                {
+                    "name": "q4_3",
+                    "text": "Who isn't a very selective viewer?"
+                },
+                {
+                    "name": "q4_4",
+                    "text": "Who keeps up to date on cinema and music?"
+                },
+                {
+                    "name": "q4_5",
+                    "text": "Who avoids watching reality TV programs?"
+                },
+                {
+                    "name": "q4_6",
+                    "text": "Who has lost interest in watching football on TV?"
+                },
+                {
+                    "name": "q4_7",
+                    "text": "Who gets a lot of knowledge by watching TV?"
+                }
+            ]
+        },
+        "task5": {
+            "title": "Task 5: Choose a heading for each numbered paragraph (1–7).",
+            "topic": "Charles Dickens",
+            "options": [
+                "Bring the books to life",
+                "Trying to protect his property",
+                "Dickens's early success",
+                "The influence of media",
+                "Difficulties for modern readers",
+                "Keeping the readers guessing",
+                "Dickens for our time"
+            ],
+            "answers": [
+                "Dickens for our time",
+                "Difficulties for modern readers",
+                "Keeping the readers guessing",
+                "The influence of media",
+                "Dickens's early success",
+                "Trying to protect his property",
+                "Bring the books to life"
+            ]
+        },
+        "answers": {
+            "task1": {
+                "q1_1": "friendly",
+                "q1_2": "walk",
+                "q1_3": "first",
+                "q1_4": "speak",
+                "q1_5": "together"
+            },
+            "task2_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task3_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task4": {
+                "q4_1": "A",
+                "q4_2": "A",
+                "q4_3": "D",
+                "q4_4": "D",
+                "q4_5": "B",
+                "q4_6": "B",
+                "q4_7": "C"
+            },
+            "task5": {
+                "q5_1": "Dickens for our time",
+                "q5_2": "Difficulties for modern readers",
+                "q5_3": "Keeping the readers guessing",
+                "q5_4": "The influence of media",
+                "q5_5": "Dickens's early success",
+                "q5_6": "Trying to protect his property",
+                "q5_7": "Bring the books to life"
+            }
+        }
+    },
+    "TEST_6": {
+        "title": "Bài Luyện Tập Reading - Test 6",
+        "task1": {
+            "title": "Task 1: Read the email from a person to his/her friend.",
+            "instruction": "Choose one word from the list for each gap.",
+            "questions": [
+                {
+                    "before": "I imagine you don't want to ",
+                    "options": [
+                        "love",
+                        "remember",
+                        "miss"
+                    ],
+                    "after": " this."
+                },
+                {
+                    "before": "I ",
+                    "options": [
+                        "called",
+                        "told",
+                        "said"
+                    ],
+                    "after": " you earlier but you were not home."
+                },
+                {
+                    "before": "Can you be ",
+                    "options": [
+                        "ready",
+                        "late",
+                        "sleepy"
+                    ],
+                    "after": " before 7pm?"
+                },
+                {
+                    "before": "I can ",
+                    "options": [
+                        "miss",
+                        "meet",
+                        "hold"
+                    ],
+                    "after": " you at your place then."
+                },
+                {
+                    "before": "Don't have too much ",
+                    "options": [
+                        "talk",
+                        "pencil",
+                        "dinner"
+                    ],
+                    "after": " because we're going to eat cake."
+                }
+            ]
+        },
+        "task2": {
+            "title": "Task 2: Put the sentences in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "Car park"
+                },
+                {
+                    "order": 2,
+                    "text": "When you arrive, please take a ticket from a machine at the entrance"
+                },
+                {
+                    "order": 3,
+                    "text": "This ticket will show the date and the time you arrived"
+                },
+                {
+                    "order": 4,
+                    "text": "Please display the ticket with this information in the window of your car"
+                },
+                {
+                    "order": 5,
+                    "text": "Before you leave, please put the ticket on the machine by the gate"
+                },
+                {
+                    "order": 6,
+                    "text": "The machine will read your information and tell you how much you have to pay"
+                }
+            ]
+        },
+        "task3": {
+            "title": "Task 3: Put the sentences below in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "Instruction to send papers work"
+                },
+                {
+                    "order": 2,
+                    "text": "In your account, press \"open new window\""
+                },
+                {
+                    "order": 3,
+                    "text": "When you do this, a new window will open"
+                },
+                {
+                    "order": 4,
+                    "text": "Simply drag and drop your files"
+                },
+                {
+                    "order": 5,
+                    "text": "Once you put the files there, press the \"send\" button"
+                },
+                {
+                    "order": 6,
+                    "text": "After you send your work, you should check your email"
+                }
+            ]
+        },
+        "task4": {
+            "title": "Task 4: Four people respond...",
+            "readingTextParts": [
+                {
+                    "person": "Cecilia",
+                    "text": "When I was a kid, I was often given ready-made or junk food when I was at home, although I don't want to blame my parents. Since then, I try to eat at restaurants as much as possible. The food at the restaurant is not very diverse but for me that is not a problem. What matters to me when going out to eat is who you go with. I often eat with colleagues or close friends when I get off work, it's very fun"
+                },
+                {
+                    "person": "Benigno",
+                    "text": "I used to often go to the most fashionable and luxurious restaurants to eat. However, now, I'm back to being a student and my finances won't stretch that far. Therefore, I often cook for myself and watch recipes and cooking methods on the internet. That helps me to be able to focus on my studies without losing concentration."
+                },
+                {
+                    "person": "Gloria",
+                    "text": "Going to a restaurant is for the social atmosphere and I am not bothered to eat alone either. What's important to me is the variety of dishes. Therefore, I eat at as many places as possible even though they are a bit pricey. That's why I joined the cooking club, where I can learn many new recipes and also meet many friends."
+                },
+                {
+                    "person": "Alon",
+                    "text": "I don't understand why so many people want to find many different recipes for one dish. I know clearly what I like and I eat exactly that food. My dad is a good cook, he knows what ingredients I don't like to eat, which obviously are a lot. I love being home and eating with my family."
+                }
+            ],
+            "questions": [
+                {
+                    "name": "q4_1",
+                    "text": "Who likes to eat a wide range of dishes?"
+                },
+                {
+                    "name": "q4_2",
+                    "text": "Who takes a cookery course?"
+                },
+                {
+                    "name": "q4_3",
+                    "text": "Who only wants to eat a few range of food?"
+                },
+                {
+                    "name": "q4_4",
+                    "text": "Who likes to eat with friends?"
+                },
+                {
+                    "name": "q4_5",
+                    "text": "Who prefers to eat alone?"
+                },
+                {
+                    "name": "q4_6",
+                    "text": "Who needs to save money?"
+                },
+                {
+                    "name": "q4_7",
+                    "text": "Who likes home cooked food?"
+                }
+            ]
+        },
+        "task5": {
+            "title": "Task 5: Choose a heading for each numbered paragraph (1–7).",
+            "topic": "Tulips",
+            "options": [
+                "Trade mechanics",
+                "Different types of tulip",
+                "An object of trade",
+                "Coming into fashion",
+                "An unexpected turn of events",
+                "The economy during the Golden Age",
+                "Trade across Europe"
+            ],
+            "answers": [
+                "The economy during the Golden Age",
+                "Coming into fashion",
+                "An object of trade",
+                "Different types of tulip",
+                "Trade mechanics",
+                "Trade across Europe",
+                "An unexpected turn of events"
+            ]
+        },
+        "answers": {
+            "task1": {
+                "q1_1": "miss",
+                "q1_2": "called",
+                "q1_3": "ready",
+                "q1_4": "meet",
+                "q1_5": "dinner"
+            },
+            "task2_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task3_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task4": {
+                "q4_1": "Gloria",
+                "q4_2": "Gloria",
+                "q4_3": "Alon",
+                "q4_4": "Cecilia",
+                "q4_5": "Benigno",
+                "q4_6": "Benigno",
+                "q4_7": "Alon"
+            },
+            "task5": {
+                "q5_1": "The economy during the Golden Age",
+                "q5_2": "Coming into fashion",
+                "q5_3": "An object of trade",
+                "q5_4": "Different types of tulip",
+                "q5_5": "Trade mechanics",
+                "q5_6": "Trade across Europe",
+                "q5_7": "An unexpected turn of events"
+            }
+        }
+    },
+    "TEST_7": {
+        "title": "Bài Luyện Tập Reading - Test 7",
+        "task1": {
+            "title": "Task 1: Read the email from a person to his/her friend.",
+            "instruction": "Choose one word from the list for each gap.",
+            "questions": [
+                {
+                    "before": "The budget doesn't ",
+                    "options": [
+                        "work",
+                        "count",
+                        "balance"
+                    ],
+                    "after": "."
+                },
+                {
+                    "before": "Could you get the financial ",
+                    "options": [
+                        "department",
+                        "statement",
+                        "accountant"
+                    ],
+                    "after": "?"
+                },
+                {
+                    "before": "I ",
+                    "options": [
+                        "think",
+                        "assure",
+                        "sure"
+                    ],
+                    "after": " it will help."
+                },
+                {
+                    "before": "Read the information ",
+                    "options": [
+                        "slowly",
+                        "beautifully",
+                        "fluently"
+                    ],
+                    "after": " not quickly."
+                },
+                {
+                    "before": "Send me the results ",
+                    "options": [
+                        "when",
+                        "between",
+                        "before"
+                    ],
+                    "after": " you go home, not after."
+                }
+            ]
+        },
+        "task2": {
+            "title": "Task 2: Put the sentences in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "Instructions for new students"
+                },
+                {
+                    "order": 2,
+                    "text": "When you arrive at the university, go to the help desk"
+                },
+                {
+                    "order": 3,
+                    "text": "A member of staff will ask for your name and your address"
+                },
+                {
+                    "order": 4,
+                    "text": "He or she will enter your information into the computer and give you an identification card"
+                },
+                {
+                    "order": 5,
+                    "text": "You can use this card to borrow books from library and access lesson materials online"
+                },
+                {
+                    "order": 6,
+                    "text": "You will find these in material links on your home page"
+                }
+            ]
+        },
+        "task3": {
+            "title": "Task 3: Put the sentences below in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "Participate in a race"
+                },
+                {
+                    "order": 2,
+                    "text": "On your arrival, please go to the information point at the north gate."
+                },
+                {
+                    "order": 3,
+                    "text": "Runners must register here at least 30 minutes before the race starts at 9am."
+                },
+                {
+                    "order": 4,
+                    "text": "To do this, you just need to give us your photo card"
+                },
+                {
+                    "order": 5,
+                    "text": "A member of staff will give you a numbered armband to wear."
+                },
+                {
+                    "order": 6,
+                    "text": "Please put this on immediately and join other competitors at the warm-up area"
+                }
+            ]
+        },
+        "task4": {
+            "title": "Task 4: Four people respond...",
+            "readingTextParts": [
+                {
+                    "person": "A",
+                    "text": "When I first came to this city, I felt very scared because this city is very big. The city has many parts and the shopping part is very far from the green part. However, we already had the bus route and we signed up to take the bus for a full day. Buses are very cheap and very convenient. I feel very lucky to not have to put pressure on my sore feet"
+                },
+                {
+                    "person": "B",
+                    "text": "I don't like big cities and rarely go out. But I go to StevenSon city very often. I go there about five to seven times a year. There is an area outside the city. In that area, there are many things that I need. There is a lot of water, a natural area, a small forest and a special camping area. I really like coming to this place to rest. It also has a great coffee serving area for visitors"
+                },
+                {
+                    "person": "C",
+                    "text": "I went to this city last summer and really liked the atmosphere of this city. The reason I like the atmosphere here is because it has a lot of public performances. These performances often take place in front of department stores. so this prevents me from shopping inside those stores. I was very surprised when I came home with an empty bag and I didn't buy anything."
+                },
+                {
+                    "person": "D",
+                    "text": "When I go out, I only care about two things: good food and a good play. I especially liked the lunch I had in this city, it was delicious and I really want to come back here next time. However, I guess it's a bit expensive and I have to walk a long way to get there. However, it didn't matter because I had a wonderful day."
+                }
+            ],
+            "questions": [
+                {
+                    "name": "q4_1",
+                    "text": "Who visits one part of the city?"
+                },
+                {
+                    "name": "q4_2",
+                    "text": "Who liked the public theatre that the city puts on?"
+                },
+                {
+                    "name": "q4_3",
+                    "text": "Who usually spends a lot of money on shopping?"
+                },
+                {
+                    "name": "q4_4",
+                    "text": "Who paid a lot for their meal?"
+                },
+                {
+                    "name": "q4_5",
+                    "text": "Who thought public transport system was good?"
+                },
+                {
+                    "name": "q4_6",
+                    "text": "Who thought walking too much causes a problem?"
+                },
+                {
+                    "name": "q4_7",
+                    "text": "Who likes the natural resort here?"
+                }
+            ]
+        },
+        "task5": {
+            "title": "Task 5: Choose a heading for each numbered paragraph (1–7).",
+            "topic": "Eating in China",
+            "options": [
+                "Regional variations",
+                "The influence of philosophy",
+                "The origins of chinese food",
+                "Effects of a changing diet",
+                "The style of eating",
+                "Changes in the Chinese diets",
+                "Cooking methods"
+            ],
+            "answers": [
+                "The origins of chinese food",
+                "The influence of philosophy",
+                "Regional variations",
+                "Cooking methods",
+                "The style of eating",
+                "Changes in the Chinese diets",
+                "Effects of a changing diet"
+            ]
+        },
+        "answers": {
+            "task1": {
+                "q1_1": "balance",
+                "q1_2": "statement",
+                "q1_3": "think",
+                "q1_4": "slowly",
+                "q1_5": "before"
+            },
+            "task2_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task3_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task4": {
+                "q4_1": "B",
+                "q4_2": "C",
+                "q4_3": "C",
+                "q4_4": "D",
+                "q4_5": "A",
+                "q4_6": "A",
+                "q4_7": "B"
+            },
+            "task5": {
+                "q5_1": "The origins of chinese food",
+                "q5_2": "The influence of philosophy",
+                "q5_3": "Regional variations",
+                "q5_4": "Cooking methods",
+                "q5_5": "The style of eating",
+                "q5_6": "Changes in the Chinese diets",
+                "q5_7": "Effects of a changing diet"
+            }
+        }
+    },
+    "TEST_8": {
+        "title": "Bài Luyện Tập Reading - Test 8",
+        "task1": {
+            "title": "Task 1: Read the email from a person to his/her friend.",
+            "instruction": "Choose one word from the list for each gap.",
+            "questions": [
+                {
+                    "before": "I ",
+                    "options": [
+                        "go",
+                        "live",
+                        "walk"
+                    ],
+                    "after": " in a flat."
+                },
+                {
+                    "before": "I ",
+                    "options": [
+                        "share",
+                        "drink",
+                        "hold"
+                    ],
+                    "after": " it with my friend."
+                },
+                {
+                    "before": "We are in the same ",
+                    "options": [
+                        "chair",
+                        "door",
+                        "class"
+                    ],
+                    "after": "."
+                },
+                {
+                    "before": "We ",
+                    "options": [
+                        "say",
+                        "drive",
+                        "smile"
+                    ],
+                    "after": " to work."
+                },
+                {
+                    "before": "We like to ",
+                    "options": [
+                        "meet",
+                        "hold",
+                        "cook"
+                    ],
+                    "after": " dinner."
+                }
+            ]
+        },
+        "task2": {
+            "title": "Task 2: Put the sentences in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "Solve a problem"
+                },
+                {
+                    "order": 2,
+                    "text": "The first step is to find out what you know about the problem"
+                },
+                {
+                    "order": 3,
+                    "text": "The next one is to form a hypothesis or an idea based on your information"
+                },
+                {
+                    "order": 4,
+                    "text": "Then, you need to perform experiments to see if these ideas are true or not"
+                },
+                {
+                    "order": 5,
+                    "text": "You can also compare your results with experiments in the past"
+                },
+                {
+                    "order": 6,
+                    "text": "In this way, you can add to your knowledge of the subject for future experiments"
+                }
+            ]
+        },
+        "task3": {
+            "title": "Task 3: Put the sentences below in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "Instruction to send the report"
+                },
+                {
+                    "order": 2,
+                    "text": "Before you start to write your report, you should look at websites for the information you need."
+                },
+                {
+                    "order": 3,
+                    "text": "Remember to save links to websites and include them in your report"
+                },
+                {
+                    "order": 4,
+                    "text": "You should also include a list of books that you use for reference"
+                },
+                {
+                    "order": 5,
+                    "text": "When you have finished your report, correct all the mistakes"
+                },
+                {
+                    "order": 6,
+                    "text": "After you make the corrections, send your report by your email"
+                }
+            ]
+        },
+        "task4": {
+            "title": "Task 4: Four people respond...",
+            "readingTextParts": [
+                {
+                    "person": "A",
+                    "text": "This is my first time coming to this restaurant. The food is very cheap but the quality is excellent. I was very surprised with the starter because its menu is very diverse. but there is one thing that I want the restaurant to improve. The music was too low and it didn't make the meal atmosphere lively. Next time turn the music louder, please!"
+                },
+                {
+                    "person": "B",
+                    "text": "This is a very famous restaurant that I saw in the newspaper. Sadly, I arrived later than the rest of the party, so I didn't get to order dinner. However, I ordered orange juice and mango juice and they were both delicious. What about the surroundings? Lively music along with fashionable and appropriate decor makes me feel very comfortable."
+                },
+                {
+                    "person": "C",
+                    "text": "I'm not sure if I will return to this restaurant. I think the staff was arguing when I got there, because the atmosphere here was not very comfortable. As for the food, I think there's nothing to write about. I ordered fish and chips, it wasn't bad, but it wasn't good either. But many people say that the food here is fabulous. So, I think I'm an exception."
+                },
+                {
+                    "person": "D",
+                    "text": "I don't understand why this restaurant is so famous. When I arrived and saw a menu with lots of different dishes, I saw this as a bad sign. Furthermore, the menu with traditional dishes contrasting with the modern decoration style made me feel very confused and strange. The staff here are also not friendly. This was one of my worst experiences eating at a restaurant."
+                }
+            ],
+            "questions": [
+                {
+                    "name": "q4_1",
+                    "text": "Who was impressed by the range of appetizers?"
+                },
+                {
+                    "name": "q4_2",
+                    "text": "Who thought his experience was probably unusual?"
+                },
+                {
+                    "name": "q4_3",
+                    "text": "Who thought the food was of average quality?"
+                },
+                {
+                    "name": "q4_4",
+                    "text": "Who will definitely not return to the restaurant?"
+                },
+                {
+                    "name": "q4_5",
+                    "text": "Who thought the music was too quiet?"
+                },
+                {
+                    "name": "q4_6",
+                    "text": "Who didn't eat anything at the restaurant?"
+                },
+                {
+                    "name": "q4_7",
+                    "text": "Who enjoyed the atmosphere?"
+                }
+            ]
+        },
+        "task5": {
+            "title": "Task 5: Choose a heading for each numbered paragraph (1–7).",
+            "topic": "Children and exercises",
+            "options": [
+                "Ways in which environment can influence behavior",
+                "The wider effects of regular activity",
+                "The success of a simple idea",
+                "The situation have the potential of being worst",
+                "A design for exercise and for study",
+                "Achieving the right balance",
+                "Factors contributing to inactivity"
+            ],
+            "answers": [
+                "Factors contributing to inactivity",
+                "The situation have the potential of being worst",
+                "The success of a simple idea",
+                "The wider effects of regular activity",
+                "Ways in which environment can influence behavior",
+                "A design for exercise and for study",
+                "Achieving the right balance"
+            ]
+        },
+        "answers": {
+            "task1": {
+                "q1_1": "live",
+                "q1_2": "share",
+                "q1_3": "class",
+                "q1_4": "drive",
+                "q1_5": "cook"
+            },
+            "task2_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task3_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task4": {
+                "q4_1": "A",
+                "q4_2": "C",
+                "q4_3": "C",
+                "q4_4": "D",
+                "q4_5": "A",
+                "q4_6": "B",
+                "q4_7": "B"
+            },
+            "task5": {
+                "q5_1": "Factors contributing to inactivity",
+                "q5_2": "The situation have the potential of being worst",
+                "q5_3": "The success of a simple idea",
+                "q5_4": "The wider effects of regular activity",
+                "q5_5": "Ways in which environment can influence behavior",
+                "q5_6": "A design for exercise and for study",
+                "q5_7": "Achieving the right balance"
+            }
+        }
+    },
+    "TEST_9": {
+        "title": "Bài Luyện Tập Reading - Test 9",
+        "task1": {
+            "title": "Task 1: Read the email from a person to his/her friend.",
+            "instruction": "Choose one word from the list for each gap.",
+            "questions": [
+                {
+                    "before": "The water is ",
+                    "options": [
+                        "sour",
+                        "clear",
+                        "see"
+                    ],
+                    "after": "."
+                },
+                {
+                    "before": "The ",
+                    "options": [
+                        "wind",
+                        "sun",
+                        "dust"
+                    ],
+                    "after": " is out."
+                },
+                {
+                    "before": "I have an ",
+                    "options": [
+                        "enjoyable",
+                        "good",
+                        "tired"
+                    ],
+                    "after": " holiday."
+                },
+                {
+                    "before": "After ",
+                    "options": [
+                        "eating",
+                        "sleeping",
+                        "working"
+                    ],
+                    "after": " so hard."
+                },
+                {
+                    "before": "I hope to ",
+                    "options": [
+                        "tell",
+                        "read",
+                        "toward"
+                    ],
+                    "after": " your letter."
+                }
+            ]
+        },
+        "task2": {
+            "title": "Task 2: Put the sentences in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "Instruction to use the printer"
+                },
+                {
+                    "order": 2,
+                    "text": "First, you need to find an appropriate place to put your printer"
+                },
+                {
+                    "order": 3,
+                    "text": "When your printer is in place, turn it on using the switch"
+                },
+                {
+                    "order": 4,
+                    "text": "A light comes on at the front of the printer"
+                },
+                {
+                    "order": 5,
+                    "text": "If the light is green, your printer is ready to use"
+                },
+                {
+                    "order": 6,
+                    "text": "Before using the printer, you need to put papers into it."
+                }
+            ]
+        },
+        "task3": {
+            "title": "Task 3: Put the sentences below in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "Delivery man"
+                },
+                {
+                    "order": 2,
+                    "text": "You should arrive at the main office by 6.30am and collect your keys"
+                },
+                {
+                    "order": 3,
+                    "text": "In the office, you can also collect a map of your route"
+                },
+                {
+                    "order": 4,
+                    "text": "You must follow the route on the map to deliver packages"
+                },
+                {
+                    "order": 5,
+                    "text": "When you have completed all deliveries, return to your office"
+                },
+                {
+                    "order": 6,
+                    "text": "You must return your keys to the office manager after you get back"
+                }
+            ]
+        },
+        "task4": {
+            "title": "Task 4: Four people respond...",
+            "readingTextParts": [
+                {
+                    "person": "A",
+                    "text": "I have a dream that I work as a tour guide. So I understand that I will have to fly to other countries. In my personal opinion, airplanes are currently too cheap compared to the damage they cause to the environment, so I believe we should add taxes to airline ticket prices to make people choose to use other means of transport before they think about flying. I believe that people are also very happy when they can contribute to protecting the environment."
+                },
+                {
+                    "person": "B",
+                    "text": "My family and siblings live quite far from me. So I often have to fly to visit them every month when I have time. We really appreciate the time we spend together and we are happy to be able to meet each other and share our new story. I know that traveling by plane too much is not good for the environment so I often shop online or go to work by bike instead of going by car or I reuse plastic bags and paper bags. In addition, I sometimes volunteer to clean up trash in the neighborhood."
+                },
+                {
+                    "person": "C",
+                    "text": "I was a businessman so I had to fly many times a week. I had to go to other countries to be able to sign wine trading contracts with them. I felt very tired every time I have to fly. Now, my sister and I, whenever we have free time, take the train together and we enjoy that time very much because I can travel while sightseeing and relax without any stress."
+                },
+                {
+                    "person": "D",
+                    "text": "If I have to go somewhere I will choose other means of public transport, not the plane. Every time I go on a plane I feel extremely tired and I just hope time passes quickly so I can get off that plane. However, due to the specific nature of my job, I have to film in many different locations, so sometimes I cannot avoid having to take this public transportation."
+                }
+            ],
+            "questions": [
+                {
+                    "name": "q4_1",
+                    "text": "Who tries to protect the environment?"
+                },
+                {
+                    "name": "q4_2",
+                    "text": "Who likes relaxing while they travel?"
+                },
+                {
+                    "name": "q4_3",
+                    "text": "Who finds flying tiring?"
+                },
+                {
+                    "name": "q4_4",
+                    "text": "Who needs to fly for their work?"
+                },
+                {
+                    "name": "q4_5",
+                    "text": "Who suggests making flights more expensive?"
+                },
+                {
+                    "name": "q4_6",
+                    "text": "Who wants to work in other countries?"
+                },
+                {
+                    "name": "q4_7",
+                    "text": "Who visits relatives regularly?"
+                }
+            ]
+        },
+        "task5": {
+            "title": "Task 5: Choose a heading for each numbered paragraph (1–7).",
+            "topic": "Antarctica - Frozen land",
+            "options": [
+                "Where is the end of the Earth?",
+                "Hidden geography",
+                "Race to the Pole",
+                "Less effort needed",
+                "Who is in charge?",
+                "Why is it so cold?",
+                "First step on the ice"
+            ],
+            "answers": [
+                "Who is in charge?",
+                "First step on the ice",
+                "Where is the end of the Earth?",
+                "Hidden geography",
+                "Race to the Pole",
+                "Less effort needed",
+                "Why is it so cold?"
+            ]
+        },
+        "answers": {
+            "task1": {
+                "q1_1": "clear",
+                "q1_2": "sun",
+                "q1_3": "enjoyable",
+                "q1_4": "working",
+                "q1_5": "read"
+            },
+            "task2_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task3_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task4": {
+                "q4_1": "B",
+                "q4_2": "C",
+                "q4_3": "D",
+                "q4_4": "D",
+                "q4_5": "A",
+                "q4_6": "A",
+                "q4_7": "B"
+            },
+            "task5": {
+                "q5_1": "Who is in charge?",
+                "q5_2": "First step on the ice",
+                "q5_3": "Where is the end of the Earth?",
+                "q5_4": "Hidden geography",
+                "q5_5": "Race to the Pole",
+                "q5_6": "Less effort needed",
+                "q5_7": "Why is it so cold?"
+            }
+        }
+    },
+    "TEST_10": {
+        "title": "Bài Luyện Tập Reading - Test 10",
+        "task1": {
+            "title": "Task 1: Read the email from a person to his/her friend.",
+            "instruction": "Choose one word from the list for each gap.",
+            "questions": [
+                {
+                    "before": "I saw some shoes in the ",
+                    "options": [
+                        "market",
+                        "window",
+                        "shoe"
+                    ],
+                    "after": " of one store."
+                },
+                {
+                    "before": "I didn't ",
+                    "options": [
+                        "eat",
+                        "buy",
+                        "drink"
+                    ],
+                    "after": " it."
+                },
+                {
+                    "before": "I buy some food at the ",
+                    "options": [
+                        "park",
+                        "classroom",
+                        "market"
+                    ],
+                    "after": "."
+                },
+                {
+                    "before": "I ate ",
+                    "options": [
+                        "cake",
+                        "door",
+                        "watch"
+                    ],
+                    "after": "."
+                },
+                {
+                    "before": "I ",
+                    "options": [
+                        "ate",
+                        "saw",
+                        "watched"
+                    ],
+                    "after": " a program on TV."
+                }
+            ]
+        },
+        "task2": {
+            "title": "Task 2: Put the sentences in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "A scientist’s life - Albert"
+                },
+                {
+                    "order": 2,
+                    "text": "As a child, he moved to a special school because he was so clever"
+                },
+                {
+                    "order": 3,
+                    "text": "His best friend in his new class was a girl named Lavime"
+                },
+                {
+                    "order": 4,
+                    "text": "She later became his wife and helped him with his earliest scientific discoveries"
+                },
+                {
+                    "order": 5,
+                    "text": "These were so advanced that he soon became famous all over the world"
+                },
+                {
+                    "order": 6,
+                    "text": "Princeton University in the USA offered him a job because he was so famous"
+                }
+            ]
+        },
+        "task3": {
+            "title": "Task 3: Put the sentences below in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "Enter the conference hall"
+                },
+                {
+                    "order": 2,
+                    "text": "When you arrive at the conference hall, give your booking number."
+                },
+                {
+                    "order": 3,
+                    "text": "A staff member will note this down and give you a welcome pack"
+                },
+                {
+                    "order": 4,
+                    "text": "Inside you will find a schedule of events and the information of the key speaker"
+                },
+                {
+                    "order": 5,
+                    "text": "If you would like to attend his talk, it will take place in the main hall at midday"
+                },
+                {
+                    "order": 6,
+                    "text": "After he finishes, there will be time for questions"
+                }
+            ]
+        },
+        "task4": {
+            "title": "Task 4: Four people respond...",
+            "readingTextParts": [
+                {
+                    "person": "A",
+                    "text": "When I travel somewhere, I often ask for bus routes to famous tourist destinations so that I can get to those places as quickly as possible and avoid wasting time going around. Famous tourist destinations are the places I want to explore the most when traveling somewhere. I don't understand why many people just like to sit still at the beach when traveling, I find that uninteresting and time-consuming."
+                },
+                {
+                    "person": "B",
+                    "text": "My family and I often plan to travel every time we have a vacation. If the weather is nice then our plans go ahead as usual, if not, we will postpone that vacation. For my family, light wind and warm sunlight are important when we go out. A few of my friends invited me to go climbing, but I'm afraid of heights so I refused them. However, in the future I really want to try mountain climbing once."
+                },
+                {
+                    "person": "C",
+                    "text": "Next month's trip will be the first time I travel to another country. Normally I only travel to famous local places or in my country. These places are beautiful but I'm so excited to travel to a foreign place once in my life."
+                },
+                {
+                    "person": "D",
+                    "text": "Last year, I went on a mountain climbing trip with my friends. It was the most horrible trip I have ever experienced. However, after that trip, I had a strong passion for walking. So now, every day I walk as a hobby, and it also helps my health a lot. I'm old so I'm no longer interested in traveling to far away places. Instead, I want to lie on a comfortable sofa and watch my favorite TV show."
+                }
+            ],
+            "questions": [
+                {
+                    "name": "q4_1",
+                    "text": "Who likes seeing tourist attractions?"
+                },
+                {
+                    "name": "q4_2",
+                    "text": "Who thinks going to the beach is boring?"
+                },
+                {
+                    "name": "q4_3",
+                    "text": "Who prefers to stay at home?"
+                },
+                {
+                    "name": "q4_4",
+                    "text": "Who likes going walking?"
+                },
+                {
+                    "name": "q4_5",
+                    "text": "Who thinks holiday requires good weather?"
+                },
+                {
+                    "name": "q4_6",
+                    "text": "Who wants to go mountaineering trip?"
+                },
+                {
+                    "name": "q4_7",
+                    "text": "Who has never been abroad?"
+                }
+            ]
+        },
+        "task5": {
+            "title": "Task 5: Choose a heading for each numbered paragraph (1–7).",
+            "topic": "Doggett's coat and badge",
+            "options": [
+                "Not in it for the money",
+                "Generations of champions",
+                "Earning a reputation",
+                "The easiest way to travel",
+                "Result of a lucky escape",
+                "Origins of what the winner receives",
+                "A need for change"
+            ],
+            "answers": [
+                "The easiest way to travel",
+                "Result of a lucky escape",
+                "Origins of what the winner receives",
+                "A need for change",
+                "Earning a reputation",
+                "Generations of champions",
+                "Not in it for the money"
+            ]
+        },
+        "answers": {
+            "task1": {
+                "q1_1": "window",
+                "q1_2": "buy",
+                "q1_3": "market",
+                "q1_4": "cake",
+                "q1_5": "watched"
+            },
+            "task2_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task3_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task4": {
+                "q4_1": "A",
+                "q4_2": "A",
+                "q4_3": "D",
+                "q4_4": "D",
+                "q4_5": "B",
+                "q4_6": "B",
+                "q4_7": "C"
+            },
+            "task5": {
+                "q5_1": "The easiest way to travel",
+                "q5_2": "Result of a lucky escape",
+                "q5_3": "Origins of what the winner receives",
+                "q5_4": "A need for change",
+                "q5_5": "Earning a reputation",
+                "q5_6": "Generations of champions",
+                "q5_7": "Not in it for the money"
+            }
+        }
+    },
+    "TEST_11": {
+        "title": "Bài Luyện Tập Reading - Test 11",
+        "task1": {
+            "title": "Task 1: Read the email from a person to his/her friend.",
+            "instruction": "Choose one word from the list for each gap.",
+            "questions": [
+                {
+                    "before": "The weather is ",
+                    "options": [
+                        "cheap",
+                        "expensive",
+                        "great"
+                    ],
+                    "after": "."
+                },
+                {
+                    "before": "We are on the ",
+                    "options": [
+                        "city",
+                        "boat",
+                        "countryside"
+                    ],
+                    "after": "."
+                },
+                {
+                    "before": "We eat dinner ",
+                    "options": [
+                        "then",
+                        "hot",
+                        "nose"
+                    ],
+                    "after": " we go to church."
+                },
+                {
+                    "before": "We are going to ",
+                    "options": [
+                        "drive",
+                        "see",
+                        "talk"
+                    ],
+                    "after": " around."
+                },
+                {
+                    "before": "I hope the weather isn't ",
+                    "options": [
+                        "too",
+                        "on",
+                        "to"
+                    ],
+                    "after": " hot."
+                }
+            ]
+        },
+        "task2": {
+            "title": "Task 2: Put the sentences in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "Hand in assignment"
+                },
+                {
+                    "order": 2,
+                    "text": "First, it is a good idea to check your report and correct mistakes"
+                },
+                {
+                    "order": 3,
+                    "text": "When you are sure there are no mistakes left, print out your report"
+                },
+                {
+                    "order": 4,
+                    "text": "Next, complete a cover sheet with your name and your student number, and attach it to your printed assignment"
+                },
+                {
+                    "order": 5,
+                    "text": "Bring your assignment with the attached cover sheet to the front desk in the main hall"
+                },
+                {
+                    "order": 6,
+                    "text": "The staff member will take your report and confirm that everything is complete"
+                }
+            ]
+        },
+        "task3": {
+            "title": "Task 3: Put the sentences below in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "Fire instructions"
+                },
+                {
+                    "order": 2,
+                    "text": "When you hear the alarm, leave your bags and belongings at the desk"
+                },
+                {
+                    "order": 3,
+                    "text": "Next, walk calmly to the doors marked Emergency Exit"
+                },
+                {
+                    "order": 4,
+                    "text": "Through these doors, there are stairs leading you to the ground floor"
+                },
+                {
+                    "order": 5,
+                    "text": "When you reach the bottom of these stairs, leave the building through front entrance"
+                },
+                {
+                    "order": 6,
+                    "text": "Outside, gather on the grass and wait for further instructions"
+                }
+            ]
+        },
+        "task4": {
+            "title": "Task 4: Four people respond...",
+            "readingTextParts": [
+                {
+                    "person": "A",
+                    "text": "Exercising with friends is a fantastic idea, don't you think? It adds a fun element to the workout routine. It's important to fuel our bodies properly, though. After a good workout, I always make sure to have a nutritious meal to replenish energy and support muscle recovery."
+                },
+                {
+                    "person": "B",
+                    "text": "Establishing a consistent workout routine has really helped me stay on track with my fitness goals. It's amazing how much more I can accomplish when I have a structured plan in place. Plus, it keeps me accountable and ensures I make time for physical activity every day."
+                },
+                {
+                    "person": "C",
+                    "text": "Age is just a number when it comes to exercise. Whether you're young or old, staying active is crucial for maintaining overall health and vitality. While competitions can be motivating for some, they're not necessarily suitable for everyone. It's important to find activities that are enjoyable and sustainable for each individual."
+                },
+                {
+                    "person": "D",
+                    "text": "Experiencing pain during exercise isn't necessary and it's a sign that something may be wrong. It's important to listen to our bodies and seek expert advice when needed, whether it's from a trainer, physical therapist, or medical professional. Taking care of ourselves properly ensures we can continue to enjoy physical activity without risking injury."
+                }
+            ],
+            "questions": [
+                {
+                    "name": "q4_1",
+                    "text": "Who thinks work out with friends is a good idea?"
+                },
+                {
+                    "name": "q4_2",
+                    "text": "Who thinks competitions are not useful for everybody?"
+                },
+                {
+                    "name": "q4_3",
+                    "text": "Who thinks experience pain is not necessary?"
+                },
+                {
+                    "name": "q4_4",
+                    "text": "Who thinks a proper meal is important?"
+                },
+                {
+                    "name": "q4_5",
+                    "text": "Who thinks a routine can help us do more sport?"
+                },
+                {
+                    "name": "q4_6",
+                    "text": "Who thinks exercise is for both the young and the elderly?"
+                },
+                {
+                    "name": "q4_7",
+                    "text": "Who thinks at times we seek expert advice?"
+                }
+            ]
+        },
+        "task5": {
+            "title": "Task 5: Choose a heading for each numbered paragraph (1–7).",
+            "topic": "Meatless diet",
+            "options": [
+                "Farming Factory - it is a harmful thing",
+                "Respect the life",
+                "Health gets better with diet",
+                "Our responsibilities with global",
+                "Types of vegetarian",
+                "Various explanations",
+                "Possible to happen"
+            ],
+            "answers": [
+                "Types of vegetarian",
+                "Various explanations",
+                "Possible to happen",
+                "Farming Factory - it is a harmful thing",
+                "Respect the life",
+                "Health gets better with diet",
+                "Our responsibilities with global"
+            ]
+        },
+        "answers": {
+            "task1": {
+                "q1_1": "great",
+                "q1_2": "boat",
+                "q1_3": "then",
+                "q1_4": "drive",
+                "q1_5": "too"
+            },
+            "task2_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task3_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task4": {
+                "q4_1": "A",
+                "q4_2": "C",
+                "q4_3": "D",
+                "q4_4": "A",
+                "q4_5": "B",
+                "q4_6": "C",
+                "q4_7": "D"
+            },
+            "task5": {
+                "q5_1": "Types of vegetarian",
+                "q5_2": "Various explanations",
+                "q5_3": "Possible to happen",
+                "q5_4": "Farming Factory - it is a harmful thing",
+                "q5_5": "Respect the life",
+                "q5_6": "Health gets better with diet",
+                "q5_7": "Our responsibilities with global"
+            }
+        }
+    },
+    "TEST_12": {
+        "title": "Bài Luyện Tập Reading - Test 12",
+        "task1": {
+            "title": "Task 1: Read the email from a person to his/her friend.",
+            "instruction": "Choose one word from the list for each gap.",
+            "questions": [
+                {
+                    "before": "I am living with a family ",
+                    "options": [
+                        "next",
+                        "near",
+                        "under"
+                    ],
+                    "after": " the city."
+                },
+                {
+                    "before": "The children are ",
+                    "options": [
+                        "cruel",
+                        "friendly",
+                        "noisy"
+                    ],
+                    "after": " to me."
+                },
+                {
+                    "before": "Seamus and Agnes ",
+                    "options": [
+                        "hold",
+                        "read",
+                        "practise"
+                    ],
+                    "after": " speaking English with me."
+                },
+                {
+                    "before": "Sometimes, I ",
+                    "options": [
+                        "see",
+                        "say",
+                        "read"
+                    ],
+                    "after": " to Seamus and Agnes."
+                },
+                {
+                    "before": "I hate the food, ",
+                    "options": [
+                        "also",
+                        "so",
+                        "then"
+                    ],
+                    "after": " yesterday I ate out."
+                }
+            ]
+        },
+        "task2": {
+            "title": "Task 2: Put the sentences in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "A famous football player"
+                },
+                {
+                    "order": 2,
+                    "text": "When he was a child, he played for some local teams near his home in Marseille"
+                },
+                {
+                    "order": 3,
+                    "text": "He then moved away from his home to join Cannes Football Club in the southern France"
+                },
+                {
+                    "order": 4,
+                    "text": "While he was at that club, people throughout France saw that he was a brilliant player."
+                },
+                {
+                    "order": 5,
+                    "text": "After that, he moved to Italy and Spain, where he finished his playing career"
+                },
+                {
+                    "order": 6,
+                    "text": "Since he retired from playing, he has worked as a football club manager."
+                }
+            ]
+        },
+        "task3": {
+            "title": "Task 3: Put the sentences below in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "How to plant potatoes?"
+                },
+                {
+                    "order": 2,
+                    "text": "All you need is some earth, an old potato and a big spot"
+                },
+                {
+                    "order": 3,
+                    "text": "An old potato will have little roots, will be a little green, and won't be good for eating"
+                },
+                {
+                    "order": 4,
+                    "text": "This colour means it is perfect for growing, you should put some earth in the pot and dig it deep down"
+                },
+                {
+                    "order": 5,
+                    "text": "When you've done this, you should water it everyday and place it in a sunny spot"
+                },
+                {
+                    "order": 6,
+                    "text": "With this care, you should see a potato plant growing after couples of weeks"
+                }
+            ]
+        },
+        "task4": {
+            "title": "Task 4: Four people respond...",
+            "readingTextParts": [
+                {
+                    "person": "A",
+                    "text": "This is the second time I've watched this movie but it still makes me feel restless and anxious. Every time there are sudden scary scenes, my heart feels like it's going to jump out. I think the director and actors made this movie very successful in scaring the audience."
+                },
+                {
+                    "person": "B",
+                    "text": "I feel like going to the cinema is a waste of money so I watched this movie at home with my family, and we had a very good time together. One thing about this movie that makes me excited is the plot of the movie. The film progresses very logically, the story lines are cleverly and skillfully arranged to express the character's psychology in the most complete way. That's one thing I like most about this movie."
+                },
+                {
+                    "person": "C",
+                    "text": "It was a holiday weekend and my college friends and I had planned to go see this movie at the cinema. We had a great time together watching that horror movie. However, I feel that this movie is not as scary as rumored. When I finished watching, I didn't feel any impression or fear at all."
+                },
+                {
+                    "person": "D",
+                    "text": "I read the book for the movie, and to be fair, the movie wasn't as good as the book. If you want to understand more about this movie you should read its book before you watch the movie. For me, the length of this movie is terrible, the movie lasts over 3 hours, while only half the time is needed for all that content."
+                }
+            ],
+            "questions": [
+                {
+                    "name": "q4_1",
+                    "text": "Who saw the film previously?"
+                },
+                {
+                    "name": "q4_2",
+                    "text": "Who saw the movies with friends?"
+                },
+                {
+                    "name": "q4_3",
+                    "text": "Who thought the film was too long?"
+                },
+                {
+                    "name": "q4_4",
+                    "text": "Who found the film scary?"
+                },
+                {
+                    "name": "q4_5",
+                    "text": "Who saw the film at home?"
+                },
+                {
+                    "name": "q4_6",
+                    "text": "Who enjoyed the story of the film?"
+                },
+                {
+                    "name": "q4_7",
+                    "text": "Who read the book of the film?"
+                }
+            ]
+        },
+        "task5": {
+            "title": "Task 5: Choose a heading for each numbered paragraph (1–7).",
+            "topic": "Music",
+            "options": [
+                "A great opportunity to broaden your social circle",
+                "A way to learn discipline and the importance of routine",
+                "Develop a greater sense of well-being",
+                "Enhanced sensitivity to other people's feelings",
+                "A good way to boost your memory",
+                "A physically demanding activity",
+                "A creative outlet for expressing emotions"
+            ],
+            "answers": [
+                "A physically demanding activity",
+                "A good way to boost your memory",
+                "A great opportunity to broaden your social circle",
+                "A way to learn discipline and the importance of routine",
+                "A creative outlet for expressing emotions",
+                "Enhanced sensitivity to other people's feelings",
+                "Develop a greater sense of well-being"
+            ]
+        },
+        "answers": {
+            "task1": {
+                "q1_1": "near",
+                "q1_2": "friendly",
+                "q1_3": "practise",
+                "q1_4": "read",
+                "q1_5": "so"
+            },
+            "task2_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task3_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task4": {
+                "q4_1": "A",
+                "q4_2": "C",
+                "q4_3": "D",
+                "q4_4": "A",
+                "q4_5": "B",
+                "q4_6": "B",
+                "q4_7": "D"
+            },
+            "task5": {
+                "q5_1": "A physically demanding activity",
+                "q5_2": "A good way to boost your memory",
+                "q5_3": "A great opportunity to broaden your social circle",
+                "q5_4": "A way to learn discipline and the importance of routine",
+                "q5_5": "A creative outlet for expressing emotions",
+                "q5_6": "Enhanced sensitivity to other people's feelings",
+                "q5_7": "Develop a greater sense of well-being"
+            }
+        }
+    },
+    "TEST_13": {
+        "title": "Bài Luyện Tập Reading - Test 13",
+        "task1": {
+            "title": "Task 1: Read the email from a person to his/her friend.",
+            "instruction": "Choose one word from the list for each gap.",
+            "questions": [
+                {
+                    "before": "It is ",
+                    "options": [
+                        "yet",
+                        "not",
+                        "just"
+                    ],
+                    "after": " what I like."
+                },
+                {
+                    "before": "And it is the perfect color, ",
+                    "options": [
+                        "so",
+                        "too",
+                        "to"
+                    ],
+                    "after": "."
+                },
+                {
+                    "before": "I am going to wear it ",
+                    "options": [
+                        "at",
+                        "to",
+                        "on"
+                    ],
+                    "after": " my birthday party."
+                },
+                {
+                    "before": "I will save you ",
+                    "options": [
+                        "some",
+                        "none",
+                        "many"
+                    ],
+                    "after": " cake."
+                },
+                {
+                    "before": "",
+                    "options": [
+                        "Receive",
+                        "Give",
+                        "Hold"
+                    ],
+                    "after": " my love to everyone."
+                }
+            ]
+        },
+        "task2": {
+            "title": "Task 2: Put the sentences in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "Famous actor - Jay"
+                },
+                {
+                    "order": 2,
+                    "text": "They left their home country and took Jay to live in the United States"
+                },
+                {
+                    "order": 3,
+                    "text": "He started study at the school in that country, and in his free time he did some strength exercise"
+                },
+                {
+                    "order": 4,
+                    "text": "Jay was very good at that and he participated in a bodybuilding competition"
+                },
+                {
+                    "order": 5,
+                    "text": "At one of these events, an actor agent saw him and gave him a starring role"
+                },
+                {
+                    "order": 6,
+                    "text": "It was a major action movie and he gained famous from that film"
+                }
+            ]
+        },
+        "task3": {
+            "title": "Task 3: Put the sentences below in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "The dream of space travel"
+                },
+                {
+                    "order": 2,
+                    "text": "When she was a child, she was very interested in space."
+                },
+                {
+                    "order": 3,
+                    "text": "Because of this passion, she worked very hard and passed the university entrance exam"
+                },
+                {
+                    "order": 4,
+                    "text": "This hard work was recognized by many lecturers at the university"
+                },
+                {
+                    "order": 5,
+                    "text": "They introduced her to a job opportunity at a prestigious organization."
+                },
+                {
+                    "order": 6,
+                    "text": "A year later, she was selected to fly into space."
+                }
+            ]
+        },
+        "task4": {
+            "title": "Task 4: Four people respond...",
+            "readingTextParts": [
+                {
+                    "person": "A",
+                    "text": "I see too many people who do not arrange a good time to travel to work, they often arrive at work late. I always think in advance about what time I will get to work tomorrow and what means of transport I will use."
+                },
+                {
+                    "person": "B",
+                    "text": "Buses are often full of people, especially during rush hour. This makes me very uncomfortable when I have to travel to work by bus. The public transportation improvement plan proposed by the city is very reasonable and it will improve the above situation a lot."
+                },
+                {
+                    "person": "C",
+                    "text": "In my opinion, the bus is very clean and comfortable to travel. I find it has a lot of space for everyone, and the bus system is also very large. Therefore, I think improving the public transport system is unnecessary, while the old system is still good."
+                },
+                {
+                    "person": "D",
+                    "text": "Building a new public transportation system will be very costly. and we all know it's at the expense of residents. I think we should use that money for something more beneficial, which is building more hospitals. Hospitals in this living area are very few."
+                }
+            ],
+            "questions": [
+                {
+                    "name": "q4_1",
+                    "text": "Who thinks transport system doesn't need improving?"
+                },
+                {
+                    "name": "q4_2",
+                    "text": "Who thinks better medical facilities are needed?"
+                },
+                {
+                    "name": "q4_3",
+                    "text": "Who thinks people should plan their journeys better?"
+                },
+                {
+                    "name": "q4_4",
+                    "text": "Who thinks the bus is too busy?"
+                },
+                {
+                    "name": "q4_5",
+                    "text": "Who thinks the new station will improve train travel?"
+                },
+                {
+                    "name": "q4_6",
+                    "text": "Who thinks the bus service is good?"
+                },
+                {
+                    "name": "q4_7",
+                    "text": "Who thinks the new station will cost too much to build?"
+                }
+            ]
+        },
+        "task5": {
+            "title": "Task 5: Choose a heading for each numbered paragraph (1–7).",
+            "topic": "Hotel",
+            "options": [
+                "The impact of lack of freedom",
+                "The benefits of living with less",
+                "The advantages of having your own space",
+                "A competitive business",
+                "The importance of planning in advance",
+                "A sensible financial choice",
+                "The price of convenience may be high"
+            ],
+            "answers": [
+                "A sensible financial choice",
+                "The price of convenience may be high",
+                "The importance of planning in advance",
+                "The impact of lack of freedom",
+                "The benefits of living with less",
+                "The advantages of having your own space",
+                "A competitive business"
+            ]
+        },
+        "answers": {
+            "task1": {
+                "q1_1": "just",
+                "q1_2": "too",
+                "q1_3": "to",
+                "q1_4": "some",
+                "q1_5": "Give"
+            },
+            "task2_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task3_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task4": {
+                "q4_1": "C",
+                "q4_2": "D",
+                "q4_3": "A",
+                "q4_4": "B",
+                "q4_5": "B",
+                "q4_6": "C",
+                "q4_7": "D"
+            },
+            "task5": {
+                "q5_1": "A sensible financial choice",
+                "q5_2": "The price of convenience may be high",
+                "q5_3": "The importance of planning in advance",
+                "q5_4": "The impact of lack of freedom",
+                "q5_5": "The benefits of living with less",
+                "q5_6": "The advantages of having your own space",
+                "q5_7": "A competitive business"
+            }
+        }
+    },
+    "TEST_14": {
+        "title": "Bài Luyện Tập Reading - Test 14",
+        "task1": {
+            "title": "Task 1: Read the email from a person to his/her friend.",
+            "instruction": "Choose one word from the list for each gap.",
+            "questions": [
+                {
+                    "before": "The budget doesn't ",
+                    "options": [
+                        "work",
+                        "count",
+                        "balance"
+                    ],
+                    "after": "."
+                },
+                {
+                    "before": "Could you get the financial ",
+                    "options": [
+                        "department",
+                        "statement",
+                        "accountant"
+                    ],
+                    "after": "?"
+                },
+                {
+                    "before": "I ",
+                    "options": [
+                        "think",
+                        "assure",
+                        "sure"
+                    ],
+                    "after": " it will help."
+                },
+                {
+                    "before": "Read the information ",
+                    "options": [
+                        "slowly",
+                        "beautifully",
+                        "fluently"
+                    ],
+                    "after": " not quickly."
+                },
+                {
+                    "before": "Send me the results ",
+                    "options": [
+                        "when",
+                        "between",
+                        "before"
+                    ],
+                    "after": " you go home, not after."
+                }
+            ]
+        },
+        "task2": {
+            "title": "Task 2: Put the sentences in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "Process of growing roses"
+                },
+                {
+                    "order": 2,
+                    "text": "In the chosen place, dig a deep hole in the ground"
+                },
+                {
+                    "order": 3,
+                    "text": "Put the base of the rose and cover the root with lease earth"
+                },
+                {
+                    "order": 4,
+                    "text": "Push this down by hand until the tree is straight"
+                },
+                {
+                    "order": 5,
+                    "text": "Once you planted it, water them everyday"
+                },
+                {
+                    "order": 6,
+                    "text": "The amount of water depends on the weather condition"
+                }
+            ]
+        },
+        "task3": {
+            "title": "Task 3: Put the sentences below in the right order.",
+            "sentences": [
+                {
+                    "order": 1,
+                    "text": "A scientist’s life - Albert"
+                },
+                {
+                    "order": 2,
+                    "text": "As a child, he moved to a special school because he was so clever"
+                },
+                {
+                    "order": 3,
+                    "text": "His best friend in his new class was a girl named Lavime"
+                },
+                {
+                    "order": 4,
+                    "text": "She later became his wife and helped him with his earliest scientific discoveries"
+                },
+                {
+                    "order": 5,
+                    "text": "These were so advanced that he soon became famous all over the world"
+                },
+                {
+                    "order": 6,
+                    "text": "Princeton University in the USA offered him a job because he was so famous"
+                }
+            ]
+        },
+        "task4": {
+            "title": "Task 4: Four people respond...",
+            "readingTextParts": [
+                {
+                    "person": "Jose",
+                    "text": "(Reading text for Jose was not provided in the source file)"
+                },
+                {
+                    "person": "Seri",
+                    "text": "(Reading text for Seri was not provided in the source file)"
+                },
+                {
+                    "person": "Marisol",
+                    "text": "(Reading text for Marisol was not provided in the source file)"
+                },
+                {
+                    "person": "Bao",
+                    "text": "(Reading text for Bao was not provided in the source file)"
+                }
+            ],
+            "questions": [
+                {
+                    "name": "q4_1",
+                    "text": "(Question 1 text not provided)"
+                },
+                {
+                    "name": "q4_2",
+                    "text": "(Question 2 text not provided)"
+                },
+                {
+                    "name": "q4_3",
+                    "text": "(Question 3 text not provided)"
+                },
+                {
+                    "name": "q4_4",
+                    "text": "(Question 4 text not provided)"
+                },
+                {
+                    "name": "q4_5",
+                    "text": "(Question 5 text not provided)"
+                },
+                {
+                    "name": "q4_6",
+                    "text": "(Question 6 text not provided)"
+                },
+                {
+                    "name": "q4_7",
+                    "text": "(Question 7 text not provided)"
+                }
+            ]
+        },
+        "task5": {
+            "title": "Task 5: Choose a heading for each numbered paragraph (1–7).",
+            "topic": "Doggett's coat and badge",
+            "options": [
+                "Not in it for the money",
+                "Generations of champions",
+                "Earning a reputation",
+                "The easiest way to travel",
+                "Result of a lucky escape",
+                "Origins of what the winner receives",
+                "A need for change"
+            ],
+            "answers": [
+                "The easiest way to travel",
+                "Result of a lucky escape",
+                "Origins of what the winner receives",
+                "A need for change",
+                "Earning a reputation",
+                "Generations of champions",
+                "Not in it for the money"
+            ]
+        },
+        "answers": {
+            "task1": {
+                "q1_1": "balance",
+                "q1_2": "statement",
+                "q1_3": "think",
+                "q1_4": "slowly",
+                "q1_5": "before"
+            },
+            "task2_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task3_order": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "task4": {
+                "q4_1": "Jose",
+                "q4_2": "Seri",
+                "q4_3": "Marisol",
+                "q4_4": "Bao",
+                "q4_5": "Jose",
+                "q4_6": "Marisol",
+                "q4_7": "Bao"
+            },
+            "task5": {
+                "q5_1": "The easiest way to travel",
+                "q5_2": "Result of a lucky escape",
+                "q5_3": "Origins of what the winner receives",
+                "q5_4": "A need for change",
+                "q5_5": "Earning a reputation",
+                "q5_6": "Generations of champions",
+                "q5_7": "Not in it for the money"
+            }
+        }
+    }
+}
