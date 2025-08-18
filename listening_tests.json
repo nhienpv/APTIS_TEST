@@ -1,0 +1,3382 @@
+{
+  "KEY TEST 1": {
+    "title": "Listening Test 1",
+    "parts": [
+      {
+        "type": "multiple_choice",
+        "title": "Task 1: Listen and choose the correct answer for questions 1-13.",
+        "data": [
+          {
+            "id": "kt1_p1_q1",
+            "question": "1. What is not original?",
+            "options": [
+              "Furniture",
+              "Door",
+              "Window"
+            ],
+            "answer": "Furniture"
+          },
+          {
+            "id": "kt1_p1_q2",
+            "question": "2. What did she advise for people who lack motivation at work?",
+            "options": [
+              "quit the job",
+              "ask for a salary increase",
+              "request a transfer"
+            ],
+            "answer": "request a transfer"
+          },
+          {
+            "id": "kt1_p1_q3",
+            "question": "3. What time do they meet?",
+            "options": [
+              "7.30pm",
+              "6.30pm",
+              "9.30pm"
+            ],
+            "answer": "6.30pm"
+          },
+          {
+            "id": "kt1_p1_q4",
+            "question": "4. Where does she go shopping?",
+            "options": [
+              "at a new shopping mall",
+              "at a local market",
+              "at a convenient store"
+            ],
+            "answer": "at a new shopping mall"
+          },
+          {
+            "id": "kt1_p1_q5",
+            "question": "5. What is her favorite thing to do in her spare time?",
+            "options": [
+              "going shopping",
+              "playing sports",
+              "going to the theatre"
+            ],
+            "answer": "going to the theatre"
+          },
+          {
+            "id": "kt1_p1_q6",
+            "question": "6. Which sports is she good at?",
+            "options": [
+              "Running",
+              "Swimming",
+              "Football"
+            ],
+            "answer": "Football"
+          },
+          {
+            "id": "kt1_p1_q7",
+            "question": "7. How long does it take her to ride her bike?",
+            "options": [
+              "35 minutes",
+              "25 minutes",
+              "20 minutes"
+            ],
+            "answer": "35 minutes"
+          },
+          {
+            "id": "kt1_p1_q8",
+            "question": "8. When do they meet each other?",
+            "options": [
+              "On Thursday morning",
+              "On Wednesday morning",
+              "On Tuesday morning"
+            ],
+            "answer": "On Thursday morning"
+          },
+          {
+            "id": "kt1_p1_q9",
+            "question": "9. What time does she meet her child?",
+            "options": [
+              "Seven o’clock",
+              "Three o'clock",
+              "Two o’clock"
+            ],
+            "answer": "Three o'clock"
+          },
+          {
+            "id": "kt1_p1_q10",
+            "question": "10. What colour is Jack's house?",
+            "options": [
+              "Red",
+              "Black",
+              "Green"
+            ],
+            "answer": "Red"
+          },
+          {
+            "id": "kt1_p1_q11",
+            "question": "11. What does he do after work?",
+            "options": [
+              "Go to the coffee shop",
+              "Play football",
+              "Go home"
+            ],
+            "answer": "Play football"
+          },
+          {
+            "id": "kt1_p1_q12",
+            "question": "12. What subject does her son like to study?",
+            "options": [
+              "Science",
+              "Art",
+              "Math"
+            ],
+            "answer": "Art"
+          },
+          {
+            "id": "kt1_p1_q13",
+            "question": "13. How many weeks did they spend in India?",
+            "options": [
+              "One week",
+              "Three weeks",
+              "Two weeks"
+            ],
+            "answer": "Two weeks"
+          }
+        ]
+      },
+      {
+        "type": "matching_sentence",
+        "title": "Task 2: Four people are talking about protecting the environment. Complete the sentences below.",
+        "options": [
+          "Does not use commercial cleaning products",
+          "Give away used items",
+          "Buy environmentally friendly products",
+          "Reuse containers for storing food"
+        ],
+        "data": [
+          {
+            "id": "kt1_p2_q1",
+            "person": "Speaker A",
+            "answer": "Does not use commercial cleaning products"
+          },
+          {
+            "id": "kt1_p2_q2",
+            "person": "Speaker B",
+            "answer": "Give away used items"
+          },
+          {
+            "id": "kt1_p2_q3",
+            "person": "Speaker C",
+            "answer": "Buy environmentally friendly products"
+          },
+          {
+            "id": "kt1_p2_q4",
+            "person": "Speaker D",
+            "answer": "Reuse containers for storing food"
+          }
+        ]
+      },
+      {
+        "type": "matching_opinion",
+        "title": "Task 3: Listen to a man and a woman discussing the changes in the workplace. Who expresses which opinion?",
+        "options": [
+          "Man",
+          "Woman",
+          "Both"
+        ],
+        "data": [
+          {
+            "id": "kt1_p3_q1",
+            "text": "1. Continuity is important when planning a career",
+            "answer": "Man"
+          },
+          {
+            "id": "kt1_p3_q2",
+            "text": "2. Job security cannot be guaranteed",
+            "answer": "Woman"
+          },
+          {
+            "id": "kt1_p3_q3",
+            "text": "3. Job satisfaction is important for motivator",
+            "answer": "Both"
+          },
+          {
+            "id": "kt1_p3_q4",
+            "text": "4. Technological improvement is good for the economy",
+            "answer": "Man"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 4: Listen to someone talking about a break from studying and answer the questions.",
+        "data": [
+          {
+            "id": "kt1_p4_q1",
+            "question": "1. Why hasn't he gone to college?",
+            "options": [
+              "He wasn't ready to start higher education",
+              "He wanted to earn money first",
+              "He failed his exams"
+            ],
+            "answer": "He wasn't ready to start higher education"
+          },
+          {
+            "id": "kt1_p4_q2",
+            "question": "2. Why did he decide to travel for 2 years?",
+            "options": [
+              "To be more independent",
+              "To learn a new language",
+              "To visit his family"
+            ],
+            "answer": "To be more independent"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 5: Listen to someone talking about a book about a life of a scientist and answer the questions.",
+        "data": [
+          {
+            "id": "kt1_p5_q1",
+            "question": "1. Why is the book so popular?",
+            "options": [
+              "It uses simple language to describe complex ideas",
+              "It was written by a famous author",
+              "It has beautiful illustrations"
+            ],
+            "answer": "It uses simple language to describe complex ideas"
+          },
+          {
+            "id": "kt1_p5_q2",
+            "question": "2. What do people criticize about the book?",
+            "options": [
+              "It is similar to the previous book about the scientist",
+              "It is too long and complicated",
+              "The ending is disappointing"
+            ],
+            "answer": "It is similar to the previous book about the scientist"
+          }
+        ]
+      }
+    ]
+  },
+  "KEY TEST 2": {
+    "title": "Listening Test 2",
+    "parts": [
+      {
+        "type": "multiple_choice",
+        "title": "Task 1: Listen and choose the correct answer for questions 1-13.",
+        "data": [
+          {
+            "id": "kt2_p1_q1",
+            "question": "1. What day is the new appointment?",
+            "options": [
+              "Thursday 13th",
+              "Tuesday 13th",
+              "Wednesday 10th"
+            ],
+            "answer": "Thursday 13th"
+          },
+          {
+            "id": "kt2_p1_q2",
+            "question": "2. What does the man drink?",
+            "options": [
+              "Water and iced tea",
+              "Water",
+              "Iced tea"
+            ],
+            "answer": "Iced tea"
+          },
+          {
+            "id": "kt2_p1_q3",
+            "question": "3. What time does she usually write?",
+            "options": [
+              "In the evenings",
+              "In the afternoons",
+              "In the mornings"
+            ],
+            "answer": "In the afternoons"
+          },
+          {
+            "id": "kt2_p1_q4",
+            "question": "4. How does he travel?",
+            "options": [
+              "by train",
+              "by car",
+              "by bus"
+            ],
+            "answer": "by train"
+          },
+          {
+            "id": "kt2_p1_q5",
+            "question": "5. What does she usually do on Saturdays?",
+            "options": [
+              "plays sports",
+              "goes to the park",
+              "sees her family"
+            ],
+            "answer": "sees her family"
+          },
+          {
+            "id": "kt2_p1_q6",
+            "question": "6. What does his wife like to do?",
+            "options": [
+              "sightseeing",
+              "going shopping",
+              "photography"
+            ],
+            "answer": "photography"
+          },
+          {
+            "id": "kt2_p1_q7",
+            "question": "7. Why did she become a scientist?",
+            "options": [
+              "a large stone",
+              "her dream",
+              "her favorite collection"
+            ],
+            "answer": "a large stone"
+          },
+          {
+            "id": "kt2_p1_q8",
+            "question": "8. When can they play football at school?",
+            "options": [
+              "Friday afternoon",
+              "Wednesday afternoon",
+              "Thursday afternoon"
+            ],
+            "answer": "Wednesday afternoon"
+          },
+          {
+            "id": "kt2_p1_q9",
+            "question": "9. How many buildings will the town have?",
+            "options": [
+              "1000",
+              "2000",
+              "3000"
+            ],
+            "answer": "2000"
+          },
+          {
+            "id": "kt2_p1_q10",
+            "question": "10. What was the writer's first job?",
+            "options": [
+              "chef",
+              "reporter",
+              "teacher"
+            ],
+            "answer": "teacher"
+          },
+          {
+            "id": "kt2_p1_q11",
+            "question": "11. How did he adjust the meeting?",
+            "options": [
+              "cancel the meeting",
+              "having the meeting without him",
+              "having the meeting another day"
+            ],
+            "answer": "having the meeting without him"
+          },
+          {
+            "id": "kt2_p1_q12",
+            "question": "12. What time is the meeting?",
+            "options": [
+              "9.15",
+              "10.15",
+              "10.30"
+            ],
+            "answer": "10.15"
+          },
+          {
+            "id": "kt2_p1_q13",
+            "question": "13. Why did he call his friend?",
+            "options": [
+              "To make an appointment",
+              "To say hello",
+              "Suggest a drink"
+            ],
+            "answer": "Suggest a drink"
+          }
+        ]
+      },
+      {
+        "type": "matching_sentence",
+        "title": "Task 2: Four people are talking about protecting the environment (2). Complete the sentences below.",
+        "options": [
+          "Shopping online",
+          "Not driving to work",
+          "Using less electricity",
+          "Using less water"
+        ],
+        "data": [
+          {
+            "id": "kt2_p2_q1",
+            "person": "Speaker A",
+            "answer": "Shopping online"
+          },
+          {
+            "id": "kt2_p2_q2",
+            "person": "Speaker B",
+            "answer": "Not driving to work"
+          },
+          {
+            "id": "kt2_p2_q3",
+            "person": "Speaker C",
+            "answer": "Using less electricity"
+          },
+          {
+            "id": "kt2_p2_q4",
+            "person": "Speaker D",
+            "answer": "Using less water"
+          }
+        ]
+      },
+      {
+        "type": "matching_opinion",
+        "title": "Task 3: Listen to a man and a woman discussing the subject of beauty. Who expresses which opinion?",
+        "options": [
+          "Man",
+          "Woman",
+          "Both"
+        ],
+        "data": [
+          {
+            "id": "kt2_p3_q1",
+            "text": "1. People share the very similar ideas about beauty",
+            "answer": "Man"
+          },
+          {
+            "id": "kt2_p3_q2",
+            "text": "2. Views of beauty change over time",
+            "answer": "Woman"
+          },
+          {
+            "id": "kt2_p3_q3",
+            "text": "3. Beauty can be found in unlikely places",
+            "answer": "Both"
+          },
+          {
+            "id": "kt2_p3_q4",
+            "text": "4. Traditional ideas of beauty are going to change",
+            "answer": "Woman"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 4: Listen to someone talking about sports at school and answer the questions.",
+        "data": [
+          {
+            "id": "kt2_p4_q1",
+            "question": "1. What is this person's opinion on sports?",
+            "options": [
+              "They have a harmful effect",
+              "They are essential for teamwork",
+              "They should be optional"
+            ],
+            "answer": "They have a harmful effect"
+          },
+          {
+            "id": "kt2_p4_q2",
+            "question": "2. What is the importance of sports for students?",
+            "options": [
+              "It helps balance student's lives",
+              "It builds character",
+              "It teaches discipline"
+            ],
+            "answer": "It helps balance student's lives"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 5: Listen to someone talking about 2 famous writers and answer the questions.",
+        "data": [
+          {
+            "id": "kt2_p5_q1",
+            "question": "1. What do these two famous writers have in common?",
+            "options": [
+              "They both makes references to each other in their work",
+              "They both write in the same genre",
+              "They were contemporaries"
+            ],
+            "answer": "They both makes references to each other in their work"
+          },
+          {
+            "id": "kt2_p5_q2",
+            "question": "2. What is special about their works?",
+            "options": [
+              "The meaning of their work is not always easily identified",
+              "Their works are highly autobiographical",
+              "Their works often have a political message"
+            ],
+            "answer": "The meaning of their work is not always easily identified"
+          }
+        ]
+      }
+    ]
+  },
+  "KEY TEST 3": {
+    "title": "Listening Test 3",
+    "parts": [
+      {
+        "type": "multiple_choice",
+        "title": "Task 1: Listen and choose the correct answer for questions 1-13.",
+        "data": [
+          {
+            "id": "kt3_p1_q1",
+            "question": "1. What is the mother asking her daughter to buy?",
+            "options": [
+              "eggs",
+              "chocolates",
+              "bread"
+            ],
+            "answer": "eggs"
+          },
+          {
+            "id": "kt3_p1_q2",
+            "question": "2. When do they meet?",
+            "options": [
+              "8.00",
+              "9.00",
+              "10.00"
+            ],
+            "answer": "10.00"
+          },
+          {
+            "id": "kt3_p1_q3",
+            "question": "3. Why can't she pick up her child?",
+            "options": [
+              "meet her client",
+              "have an urgent meeting",
+              "stay late at the office"
+            ],
+            "answer": "stay late at the office"
+          },
+          {
+            "id": "kt3_p1_q4",
+            "question": "4. What movie does she recommend?",
+            "options": [
+              "comedy film",
+              "action film",
+              "horror film"
+            ],
+            "answer": "action film"
+          },
+          {
+            "id": "kt3_p1_q5",
+            "question": "5. A man is calling his friend. Where is he?",
+            "options": [
+              "the park",
+              "the station",
+              "the town hall"
+            ],
+            "answer": "the town hall"
+          },
+          {
+            "id": "kt3_p1_q6",
+            "question": "6. What means of transport does he use to get to work?",
+            "options": [
+              "by bus",
+              "by train",
+              "by car"
+            ],
+            "answer": "by bus"
+          },
+          {
+            "id": "kt3_p1_q7",
+            "question": "7. What time do experts recommend eating fruit?",
+            "options": [
+              "in the morning",
+              "in the afternoon",
+              "in the evening"
+            ],
+            "answer": "in the morning"
+          },
+          {
+            "id": "kt3_p1_q8",
+            "question": "8. Why does she wake up early?",
+            "options": [
+              "to exercise",
+              "to have some quiet time",
+              "to do housework"
+            ],
+            "answer": "to have some quiet time"
+          },
+          {
+            "id": "kt3_p1_q9",
+            "question": "9. Why is he learning to drive?",
+            "options": [
+              "driving a car is his dream",
+              "he hates public transport",
+              "he has to drive to work"
+            ],
+            "answer": "he has to drive to work"
+          },
+          {
+            "id": "kt3_p1_q10",
+            "question": "10. What does he buy directly at the shop?",
+            "options": [
+              "Books",
+              "Clothes",
+              "Trousers"
+            ],
+            "answer": "Clothes"
+          },
+          {
+            "id": "kt3_p1_q11",
+            "question": "11. What area is he describing?",
+            "options": [
+              "a university area",
+              "a park",
+              "a library"
+            ],
+            "answer": "a university area"
+          },
+          {
+            "id": "kt3_p1_q12",
+            "question": "12. A man wants to buy a new house. What is his biggest problem?",
+            "options": [
+              "choosing the proper area",
+              "financial problems",
+              "persuading his family"
+            ],
+            "answer": "persuading his family"
+          },
+          {
+            "id": "kt3_p1_q13",
+            "question": "13. How old is this city?",
+            "options": [
+              "150 years",
+              "1500 years",
+              "2000 years"
+            ],
+            "answer": "1500 years"
+          }
+        ]
+      },
+      {
+        "type": "matching_sentence",
+        "title": "Task 2: Four people are talking about online shopping. Complete the sentences below.",
+        "options": [
+          "The products are delivered",
+          "It is cheaper",
+          "It saves time",
+          "There are more choices"
+        ],
+        "data": [
+          {
+            "id": "kt3_p2_q1",
+            "person": "Speaker A",
+            "answer": "The products are delivered"
+          },
+          {
+            "id": "kt3_p2_q2",
+            "person": "Speaker B",
+            "answer": "It is cheaper"
+          },
+          {
+            "id": "kt3_p2_q3",
+            "person": "Speaker C",
+            "answer": "It saves time"
+          },
+          {
+            "id": "kt3_p2_q4",
+            "person": "Speaker D",
+            "answer": "There are more choices"
+          }
+        ]
+      },
+      {
+        "type": "matching_opinion",
+        "title": "Task 3: Listen to a man and a woman discussing 2 actors. Who expresses which opinion?",
+        "options": [
+          "Man",
+          "Woman",
+          "Both"
+        ],
+        "data": [
+          {
+            "id": "kt3_p3_q1",
+            "text": "1. Auditions are the most important of casting",
+            "answer": "Man"
+          },
+          {
+            "id": "kt3_p3_q2",
+            "text": "2. Actors respond best to a strong script",
+            "answer": "Woman"
+          },
+          {
+            "id": "kt3_p3_q3",
+            "text": "3. Theatre acting and movie acting require different skills",
+            "answer": "Both"
+          },
+          {
+            "id": "kt3_p3_q4",
+            "text": "4. Actors need to be praised",
+            "answer": "Both"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 4: Listen to someone talking about advertising and sponsoring and answer the questions.",
+        "data": [
+          {
+            "id": "kt3_p4_q1",
+            "question": "1. What is the importance of advertising?",
+            "options": [
+              "It can help reach new customers",
+              "It builds brand loyalty",
+              "It increases sales"
+            ],
+            "answer": "It can help reach new customers"
+          },
+          {
+            "id": "kt3_p4_q2",
+            "question": "2. Why shouldn't we sponsor sports tournaments?",
+            "options": [
+              "They can generate negative publicity for the sport",
+              "They are too expensive",
+              "They do not reach the target audience"
+            ],
+            "answer": "They can generate negative publicity for the sport"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 5: Listen to someone talking about a regional development plan and answer the questions.",
+        "data": [
+          {
+            "id": "kt3_p5_q1",
+            "question": "1. Why do residents oppose this plan?",
+            "options": [
+              "It doesn't do enough to promote alternatives to driving",
+              "It will increase traffic congestion",
+              "It will destroy green spaces"
+            ],
+            "answer": "It doesn't do enough to promote alternatives to driving"
+          },
+          {
+            "id": "kt3_p5_q2",
+            "question": "2. What difficulties is the city council having with this plan?",
+            "options": [
+              "The plan is not making efficient use of existing land",
+              "There is a lack of funding",
+              "There is political opposition"
+            ],
+            "answer": "The plan is not making efficient use of existing land"
+          }
+        ]
+      }
+    ]
+  },
+  "KEY TEST 4": {
+    "title": "Listening Test 4",
+    "parts": [
+      {
+        "type": "multiple_choice",
+        "title": "Task 1: Listen and choose the correct answer for questions 1-13.",
+        "data": [
+          {
+            "id": "kt4_p1_q1",
+            "question": "1. What floor is the office on?",
+            "options": [
+              "on the first floor",
+              "on the second floor",
+              "on the third floor"
+            ],
+            "answer": "on the first floor"
+          },
+          {
+            "id": "kt4_p1_q2",
+            "question": "2. How much did he pay for the computer?",
+            "options": [
+              "350 pounds",
+              "150 pounds",
+              "250 pounds"
+            ],
+            "answer": "250 pounds"
+          },
+          {
+            "id": "kt4_p1_q3",
+            "question": "3. Where does he want to go tomorrow?",
+            "options": [
+              "The town hall",
+              "The city center",
+              "The museum"
+            ],
+            "answer": "The town hall"
+          },
+          {
+            "id": "kt4_p1_q4",
+            "question": "4. What did they bring for the picnic?",
+            "options": [
+              "clothes",
+              "fruit",
+              "food"
+            ],
+            "answer": "food"
+          },
+          {
+            "id": "kt4_p1_q5",
+            "question": "5. What is the population of this village?",
+            "options": [
+              "10.000",
+              "2.000",
+              "5.000"
+            ],
+            "answer": "10.000"
+          },
+          {
+            "id": "kt4_p1_q6",
+            "question": "6. Where will they meet?",
+            "options": [
+              "at the university",
+              "at the station",
+              "at the park"
+            ],
+            "answer": "at the park"
+          },
+          {
+            "id": "kt4_p1_q7",
+            "question": "7. What color shirt did he buy?",
+            "options": [
+              "Blue",
+              "Black",
+              "Red"
+            ],
+            "answer": "Black"
+          },
+          {
+            "id": "kt4_p1_q8",
+            "question": "8. What career did he choose?",
+            "options": [
+              "to work in business",
+              "to be a teacher",
+              "to keep studying"
+            ],
+            "answer": "to work in business"
+          },
+          {
+            "id": "kt4_p1_q9",
+            "question": "9. When is the assignment due?",
+            "options": [
+              "on Friday",
+              "on Saturday",
+              "on Thursday"
+            ],
+            "answer": "on Saturday"
+          },
+          {
+            "id": "kt4_p1_q10",
+            "question": "10. What course did he take?",
+            "options": [
+              "Management",
+              "Computer",
+              "Leadership"
+            ],
+            "answer": "Computer"
+          },
+          {
+            "id": "kt4_p1_q11",
+            "question": "11. What did she like the most about the movie?",
+            "options": [
+              "the car scenes",
+              "the fight scenes",
+              "the mountain scenes"
+            ],
+            "answer": "the mountain scenes"
+          },
+          {
+            "id": "kt4_p1_q12",
+            "question": "12. What did they both like about the movie?",
+            "options": [
+              "the characters",
+              "the ending",
+              "the plot"
+            ],
+            "answer": "the ending"
+          },
+          {
+            "id": "kt4_p1_q13",
+            "question": "13. What did he call to say?",
+            "options": [
+              "to say hello",
+              "to meet Felix",
+              "to say thank you"
+            ],
+            "answer": "to say thank you"
+          }
+        ]
+      },
+      {
+        "type": "matching_sentence",
+        "title": "Task 2: Four people are talking about listening to music. Complete the sentences below.",
+        "options": [
+          "To relax",
+          "After waking up",
+          "While singing",
+          "While studying"
+        ],
+        "data": [
+          {
+            "id": "kt4_p2_q1",
+            "person": "Speaker A",
+            "answer": "To relax"
+          },
+          {
+            "id": "kt4_p2_q2",
+            "person": "Speaker B",
+            "answer": "After waking up"
+          },
+          {
+            "id": "kt4_p2_q3",
+            "person": "Speaker C",
+            "answer": "While singing"
+          },
+          {
+            "id": "kt4_p2_q4",
+            "person": "Speaker D",
+            "answer": "While studying"
+          }
+        ]
+      },
+      {
+        "type": "matching_opinion",
+        "title": "Task 3: Listen to a man and a woman discussing information and technology. Who expresses which opinion?",
+        "options": [
+          "Man",
+          "Woman",
+          "Both"
+        ],
+        "data": [
+          {
+            "id": "kt4_p3_q1",
+            "text": "1. The future generation will fail to cope with new information",
+            "answer": "Man"
+          },
+          {
+            "id": "kt4_p3_q2",
+            "text": "2. The information revolution will be good for the economy",
+            "answer": "Woman"
+          },
+          {
+            "id": "kt4_p3_q3",
+            "text": "3. No computer is superior to the human brain",
+            "answer": "Woman"
+          },
+          {
+            "id": "kt4_p3_q4",
+            "text": "4. More should be done to protect individual privacy",
+            "answer": "Both"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 4: Listen to someone talking about life after university and answer the questions.",
+        "data": [
+          {
+            "id": "kt4_p4_q1",
+            "question": "1. What should students do when choosing a career?",
+            "options": [
+              "Be flexible and open minded",
+              "Follow their passion",
+              "Choose a high-paying job"
+            ],
+            "answer": "Be flexible and open minded"
+          },
+          {
+            "id": "kt4_p4_q2",
+            "question": "2. What should students pay attention to when applying for jobs these days?",
+            "options": [
+              "They are becoming more competitive",
+              "They require more experience",
+              "They offer fewer benefits"
+            ],
+            "answer": "They are becoming more competitive"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 5: Listen to someone talking about a regional development plan and answer the questions.",
+        "data": [
+          {
+            "id": "kt4_p5_q1",
+            "question": "1. Why do residents oppose this plan?",
+            "options": [
+              "It doesn't do enough to promote alternatives to driving",
+              "It will increase traffic congestion",
+              "It will destroy green spaces"
+            ],
+            "answer": "It doesn't do enough to promote alternatives to driving"
+          },
+          {
+            "id": "kt4_p5_q2",
+            "question": "2. What difficulties is the city council having with this plan?",
+            "options": [
+              "The plan is not making efficient use of existing land",
+              "There is a lack of funding",
+              "There is political opposition"
+            ],
+            "answer": "The plan is not making efficient use of existing land"
+          }
+        ]
+      }
+    ]
+  },
+  "KEY TEST 5": {
+    "title": "Listening Test 5",
+    "parts": [
+      {
+        "type": "multiple_choice",
+        "title": "Task 1: Listen and choose the correct answer for questions 1-13.",
+        "data": [
+          {
+            "id": "kt5_p1_q1",
+            "question": "1. How many copies did he sell?",
+            "options": [
+              "Over 300000 copies",
+              "100.000 copies",
+              "30.000 copies"
+            ],
+            "answer": "Over 300000 copies"
+          },
+          {
+            "id": "kt5_p1_q2",
+            "question": "2. Where did they meet for the bus home?",
+            "options": [
+              "hotel entrance",
+              "bus station",
+              "market place"
+            ],
+            "answer": "market place"
+          },
+          {
+            "id": "kt5_p1_q3",
+            "question": "3. What did he forget?",
+            "options": [
+              "Money",
+              "Phone",
+              "Glasses"
+            ],
+            "answer": "Glasses"
+          },
+          {
+            "id": "kt5_p1_q4",
+            "question": "4. Who did she take the picture of?",
+            "options": [
+              "The girl's team",
+              "The boy’s team",
+              "Anna, Sara and the girl's team"
+            ],
+            "answer": "The girl's team"
+          },
+          {
+            "id": "kt5_p1_q5",
+            "question": "5. How many minutes did he have to speak?",
+            "options": [
+              "10",
+              "15",
+              "25"
+            ],
+            "answer": "15"
+          },
+          {
+            "id": "kt5_p1_q6",
+            "question": "6. What does this family do most weekends?",
+            "options": [
+              "goes with their friends",
+              "goes bowling",
+              "goes for a walk"
+            ],
+            "answer": "goes for a walk"
+          },
+          {
+            "id": "kt5_p1_q7",
+            "question": "7. A girl is calling her mother. Which dress does she want?",
+            "options": [
+              "long and green",
+              "long and red",
+              "short and red"
+            ],
+            "answer": "long and red"
+          },
+          {
+            "id": "kt5_p1_q8",
+            "question": "8. Which room is her favourite?",
+            "options": [
+              "Bathroom",
+              "Kitchen",
+              "Bedroom"
+            ],
+            "answer": "Bathroom"
+          },
+          {
+            "id": "kt5_p1_q9",
+            "question": "9. What did she do last weekend?",
+            "options": [
+              "Stayed at home",
+              "Went shopping",
+              "Went to the cinema"
+            ],
+            "answer": "Stayed at home"
+          },
+          {
+            "id": "kt5_p1_q10",
+            "question": "10. Which room is the largest in her house?",
+            "options": [
+              "Living room",
+              "Bedroom",
+              "Kitchen"
+            ],
+            "answer": "Kitchen"
+          },
+          {
+            "id": "kt5_p1_q11",
+            "question": "11. What is the weather like today?",
+            "options": [
+              "Cold and not wet",
+              "Hot and wet",
+              "Cold and wet"
+            ],
+            "answer": "Cold and wet"
+          },
+          {
+            "id": "kt5_p1_q12",
+            "question": "12. What number do you press to buy a new computer?",
+            "options": [
+              "Two",
+              "Three",
+              "Four"
+            ],
+            "answer": "Three"
+          },
+          {
+            "id": "kt5_p1_q13",
+            "question": "13. How does she go to school?",
+            "options": [
+              "She walks",
+              "She drives",
+              "She goes by bus"
+            ],
+            "answer": "She walks"
+          }
+        ]
+      },
+      {
+        "type": "matching_sentence",
+        "title": "Task 2: Four people are talking about outdoor activities. Complete the sentences below.",
+        "options": [
+          "horse riding",
+          "going for a run",
+          "climbing",
+          "mountain biking"
+        ],
+        "data": [
+          {
+            "id": "kt5_p2_q1",
+            "person": "Speaker A",
+            "answer": "horse riding"
+          },
+          {
+            "id": "kt5_p2_q2",
+            "person": "Speaker B",
+            "answer": "going for a run"
+          },
+          {
+            "id": "kt5_p2_q3",
+            "person": "Speaker C",
+            "answer": "climbing"
+          },
+          {
+            "id": "kt5_p2_q4",
+            "person": "Speaker D",
+            "answer": "mountain biking"
+          }
+        ]
+      },
+      {
+        "type": "matching_opinion",
+        "title": "Task 3: Listen to a man and a woman discussing the arts. Who expresses which opinion?",
+        "options": [
+          "Man",
+          "Woman",
+          "Both"
+        ],
+        "data": [
+          {
+            "id": "kt5_p3_q1",
+            "text": "1. Art is only suitable for the privileged few",
+            "answer": "Woman"
+          },
+          {
+            "id": "kt5_p3_q2",
+            "text": "2. The government should invest more in arts",
+            "answer": "Man"
+          },
+          {
+            "id": "kt5_p3_q3",
+            "text": "3. Children should be exposed to art early",
+            "answer": "Both"
+          },
+          {
+            "id": "kt5_p3_q4",
+            "text": "4. In the future, art will become more accessible",
+            "answer": "Man"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 4: Listen to someone talking about a musician's life and answer the questions.",
+        "data": [
+          {
+            "id": "kt5_p4_q1",
+            "question": "1. What will this musician do in the near future?",
+            "options": [
+              "He will probably retire from singing",
+              "He will release a new album",
+              "He will go on a world tour"
+            ],
+            "answer": "He will probably retire from singing"
+          },
+          {
+            "id": "kt5_p4_q2",
+            "question": "2. What does the speaker think about his career in general?",
+            "options": [
+              "He could have been more successful",
+              "He was overrated",
+              "He was a musical genius"
+            ],
+            "answer": "He could have been more successful"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 5: Listen to someone talking about a new guide and answer the questions.",
+        "data": [
+          {
+            "id": "kt5_p5_q1",
+            "question": "1. What is the advantage of this new guide?",
+            "options": [
+              "It creates a sense of adventure",
+              "It is very detailed",
+              "It is easy to use"
+            ],
+            "answer": "It creates a sense of adventure"
+          },
+          {
+            "id": "kt5_p5_q2",
+            "question": "2. What is the limitation of this new guide?",
+            "options": [
+              "It is only suitable for a particular generation",
+              "It is too expensive",
+              "It contains inaccurate information"
+            ],
+            "answer": "It is only suitable for a particular generation"
+          }
+        ]
+      }
+    ]
+  },
+  "KEY TEST 6": {
+    "title": "Listening Test 6",
+    "parts": [
+      {
+        "type": "multiple_choice",
+        "title": "Task 1: Listen and choose the correct answer for questions 1-13.",
+        "data": [
+          {
+            "id": "kt6_p1_q1",
+            "question": "1. What time does the train leave? (for him to go on a business trip)",
+            "options": [
+              "9.45",
+              "8.45",
+              "9.15"
+            ],
+            "answer": "9.15"
+          },
+          {
+            "id": "kt6_p1_q2",
+            "question": "2. What does her sister look like?",
+            "options": [
+              "Short",
+              "Tall",
+              "Thin"
+            ],
+            "answer": "Short"
+          },
+          {
+            "id": "kt6_p1_q3",
+            "question": "3. What does her sister drink?",
+            "options": [
+              "Water",
+              "Tea",
+              "Coffee"
+            ],
+            "answer": "Tea"
+          },
+          {
+            "id": "kt6_p1_q4",
+            "question": "4. A man is calling his wife. Where did they meet?",
+            "options": [
+              "At the park",
+              "Outside a shop",
+              "At the station"
+            ],
+            "answer": "Outside a shop"
+          },
+          {
+            "id": "kt6_p1_q5",
+            "question": "5. What time do he have dinner these days?",
+            "options": [
+              "6 o'clock",
+              "7 o'clock",
+              "8 o'clock"
+            ],
+            "answer": "7 o'clock"
+          },
+          {
+            "id": "kt6_p1_q6",
+            "question": "6. What did the professor want her to do?",
+            "options": [
+              "Do research",
+              "Make a report",
+              "Speak at the conference"
+            ],
+            "answer": "Speak at the conference"
+          },
+          {
+            "id": "kt6_p1_q7",
+            "question": "7. What does he remember most about his school days?",
+            "options": [
+              "Homework",
+              "History classes",
+              "Teachers"
+            ],
+            "answer": "History classes"
+          },
+          {
+            "id": "kt6_p1_q8",
+            "question": "8. Where did she choose to go on holiday?",
+            "options": [
+              "The south",
+              "The park",
+              "The mountain"
+            ],
+            "answer": "The south"
+          },
+          {
+            "id": "kt6_p1_q9",
+            "question": "9. What is special about the new song?",
+            "options": [
+              "The singer",
+              "The words",
+              "The melody"
+            ],
+            "answer": "The words"
+          },
+          {
+            "id": "kt6_p1_q10",
+            "question": "10. What causes air pollution?",
+            "options": [
+              "Fire from the countryside",
+              "Pollutants from private cars",
+              "Smoke from factories"
+            ],
+            "answer": "Fire from the countryside"
+          },
+          {
+            "id": "kt6_p1_q11",
+            "question": "11. How much does the smallest car cost?",
+            "options": [
+              "1250 pounds",
+              "2250 pounds",
+              "3250 pounds"
+            ],
+            "answer": "3250 pounds"
+          },
+          {
+            "id": "kt6_p1_q12",
+            "question": "12. Which room will they study in?",
+            "options": [
+              "Room 201",
+              "Room 301",
+              "Room 302"
+            ],
+            "answer": "Room 301"
+          },
+          {
+            "id": "kt6_p1_q13",
+            "question": "13. How old is Stephanie?",
+            "options": [
+              "21",
+              "22",
+              "23"
+            ],
+            "answer": "21"
+          }
+        ]
+      },
+      {
+        "type": "matching_sentence",
+        "title": "Task 2: Four people are talking about using the internet. Complete the sentences below.",
+        "options": [
+          "watch films",
+          "communicate with friends",
+          "complete assignments",
+          "find transport information"
+        ],
+        "data": [
+          {
+            "id": "kt6_p2_q1",
+            "person": "Person A",
+            "answer": "watch films"
+          },
+          {
+            "id": "kt6_p2_q2",
+            "person": "Person B",
+            "answer": "communicate with friends"
+          },
+          {
+            "id": "kt6_p2_q3",
+            "person": "Person C",
+            "answer": "complete assignments"
+          },
+          {
+            "id": "kt6_p2_q4",
+            "person": "Person D",
+            "answer": "find transport information"
+          }
+        ]
+      },
+      {
+        "type": "matching_opinion",
+        "title": "Task 3: Listen to a man and a woman discussing the University and technology. Who expresses which opinion?",
+        "options": [
+          "Man",
+          "Woman",
+          "Both"
+        ],
+        "data": [
+          {
+            "id": "kt6_p3_q1",
+            "text": "1. Technology helps make education more accessible",
+            "answer": "Both"
+          },
+          {
+            "id": "kt6_p3_q2",
+            "text": "2. Social interaction is important",
+            "answer": "Woman"
+          },
+          {
+            "id": "kt6_p3_q3",
+            "text": "3. The diverse curriculum is not an advantage",
+            "answer": "Man"
+          },
+          {
+            "id": "kt6_p3_q4",
+            "text": "4. University competition should be encouraged",
+            "answer": "Woman"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 4: Listen to someone talking about writer's block and answer the questions.",
+        "data": [
+          {
+            "id": "kt6_p4_q1",
+            "question": "1. What helps writers focus more on writing?",
+            "options": [
+              "Create dedicated periods",
+              "Find a quiet place",
+              "Listen to music"
+            ],
+            "answer": "Create dedicated periods"
+          },
+          {
+            "id": "kt6_p4_q2",
+            "question": "2. What is a common mistake writers make when generating ideas?",
+            "options": [
+              "Refusing to seek the advice of other people",
+              "Being too critical of their own ideas",
+              "Waiting for inspiration to strike"
+            ],
+            "answer": "Refusing to seek the advice of other people"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 5: Listen to someone talking about professionalism at work and answer the questions.",
+        "data": [
+          {
+            "id": "kt6_p5_q1",
+            "question": "1. How is professionalism demonstrated at work?",
+            "options": [
+              "Maintain the positive attitude",
+              "Dressing formally",
+              "Being punctual"
+            ],
+            "answer": "Maintain the positive attitude"
+          },
+          {
+            "id": "kt6_p5_q2",
+            "question": "2. What is the public's view of current professionalism?",
+            "options": [
+              "Change its definition",
+              "It is declining",
+              "It is more important than ever"
+            ],
+            "answer": "Change its definition"
+          }
+        ]
+      }
+    ]
+  },
+  "KEY TEST 7": {
+    "title": "Listening Test 7",
+    "parts": [
+      {
+        "type": "multiple_choice",
+        "title": "Task 1: Listen and choose the correct answer for questions 1-13.",
+        "data": [
+          {
+            "id": "kt7_p1_q1",
+            "question": "1. How does he feel?",
+            "options": [
+              "Sick",
+              "Sad",
+              "Well"
+            ],
+            "answer": "Sick"
+          },
+          {
+            "id": "kt7_p1_q2",
+            "question": "2. The train was delayed. What time does the train leave?",
+            "options": [
+              "8.45",
+              "9.15",
+              "9.30"
+            ],
+            "answer": "9.30"
+          },
+          {
+            "id": "kt7_p1_q3",
+            "question": "3. What do they plan to do together?",
+            "options": [
+              "Go to the coffee shop",
+              "Make plans later",
+              "Have dinner together"
+            ],
+            "answer": "Make plans later"
+          },
+          {
+            "id": "kt7_p1_q4",
+            "question": "4. Where is she going with her family?",
+            "options": [
+              "The mountains",
+              "The lake",
+              "The park"
+            ],
+            "answer": "The mountains"
+          },
+          {
+            "id": "kt7_p1_q5",
+            "question": "5. Where do they wait for the bus?",
+            "options": [
+              "Next to the hotel",
+              "Near the hotel's main entrance",
+              "By the hotel's main entrance"
+            ],
+            "answer": "By the hotel's main entrance"
+          },
+          {
+            "id": "kt7_p1_q6",
+            "question": "6. Where is the tea served?",
+            "options": [
+              "The building",
+              "The river boat",
+              "The museum"
+            ],
+            "answer": "The river boat"
+          },
+          {
+            "id": "kt7_p1_q7",
+            "question": "7. A woman is introducing a concert. The concert will end with?",
+            "options": [
+              "A surprise performance",
+              "Some special offers",
+              "The city’s favorite group"
+            ],
+            "answer": "The city’s favorite group"
+          },
+          {
+            "id": "kt7_p1_q8",
+            "question": "8. What is the phone number of the shop?",
+            "options": [
+              "20 10 30",
+              "10 20 30",
+              "30 10 20"
+            ],
+            "answer": "20 10 30"
+          },
+          {
+            "id": "kt7_p1_q9",
+            "question": "9. A woman is calling her friend. What did she lose?",
+            "options": [
+              "Phone",
+              "Bag",
+              "Key"
+            ],
+            "answer": "Phone"
+          },
+          {
+            "id": "kt7_p1_q10",
+            "question": "10. What time will they meet?",
+            "options": [
+              "Half past eight",
+              "Quarter to seven",
+              "Quarter to eight"
+            ],
+            "answer": "Quarter to eight"
+          },
+          {
+            "id": "kt7_p1_q11",
+            "question": "11. Where did they go last year?",
+            "options": [
+              "Camping",
+              "Cycling",
+              "Bowling"
+            ],
+            "answer": "Camping"
+          },
+          {
+            "id": "kt7_p1_q12",
+            "question": "12. How much do the cleaning products cost?",
+            "options": [
+              "one pound fifty",
+              "two pounds",
+              "one pence"
+            ],
+            "answer": "one pound fifty"
+          },
+          {
+            "id": "kt7_p1_q13",
+            "question": "13. What advice do they need for decorating their living room?",
+            "options": [
+              "How to buy a sofa",
+              "Where to buy cups",
+              "Where to buy a new table"
+            ],
+            "answer": "Where to buy a new table"
+          }
+        ]
+      },
+      {
+        "type": "matching_sentence",
+        "title": "Task 2: Four people are talking about doing exercise. Complete the sentences below.",
+        "options": [
+          "hate exercising",
+          "help improve work performance",
+          "find exercise tiring",
+          "has fun when exercising with friends"
+        ],
+        "data": [
+          {
+            "id": "kt7_p2_q1",
+            "person": "Person A",
+            "answer": "hate exercising"
+          },
+          {
+            "id": "kt7_p2_q2",
+            "person": "Person B",
+            "answer": "help improve work performance"
+          },
+          {
+            "id": "kt7_p2_q3",
+            "person": "Person C",
+            "answer": "find exercise tiring"
+          },
+          {
+            "id": "kt7_p2_q4",
+            "person": "Person D",
+            "answer": "has fun when exercising with friends"
+          }
+        ]
+      },
+      {
+        "type": "matching_opinion",
+        "title": "Task 3: Listen to a man and a woman discussing music. Who expresses which opinion?",
+        "options": [
+          "Man",
+          "Woman",
+          "Both"
+        ],
+        "data": [
+          {
+            "id": "kt7_p3_q1",
+            "text": "1. Singers play a good role for young people",
+            "answer": "Man"
+          },
+          {
+            "id": "kt7_p3_q2",
+            "text": "2. Taste in music is a highly personal thing",
+            "answer": "Both"
+          },
+          {
+            "id": "kt7_p3_q3",
+            "text": "3. Music is a universal language",
+            "answer": "Woman"
+          },
+          {
+            "id": "kt7_p3_q4",
+            "text": "4. Music can manipulate people's feelings",
+            "answer": "Both"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 4: Listen to someone talking about a research into happiness and answer the questions.",
+        "data": [
+          {
+            "id": "kt7_p4_q1",
+            "question": "1. How has this research into happiness been responded to?",
+            "options": [
+              "It has not been accurately reported by the media",
+              "It has been widely praised",
+              "It has been criticized by other scientists"
+            ],
+            "answer": "It has not been accurately reported by the media"
+          },
+          {
+            "id": "kt7_p4_q2",
+            "question": "2. What is the speaker's opinion on this research in general?",
+            "options": [
+              "The research is unlikely to find a conclusive answer",
+              "The research is a waste of time and money",
+              "The research is groundbreaking"
+            ],
+            "answer": "The research is unlikely to find a conclusive answer"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 5: Listen to someone talking about criticism of the new novel and answer the questions.",
+        "data": [
+          {
+            "id": "kt7_p5_q1",
+            "question": "1. What attracts readers to this novel?",
+            "options": [
+              "The characters were interesting",
+              "The plot was fast-paced",
+              "The writing style was unique"
+            ],
+            "answer": "The characters were interesting"
+          },
+          {
+            "id": "kt7_p5_q2",
+            "question": "2. What is the speaker's opinion about this novel?",
+            "options": [
+              "It will establish the author's popularity",
+              "It is not as good as the author's previous works",
+              "It is a masterpiece"
+            ],
+            "answer": "It will establish the author's popularity"
+          }
+        ]
+      }
+    ]
+  },
+  "KEY TEST 8": {
+    "title": "Listening Test 8",
+    "parts": [
+      {
+        "type": "multiple_choice",
+        "title": "Task 1: Listen and choose the correct answer for questions 1-13.",
+        "data": [
+          {
+            "id": "kt8_p1_q1",
+            "question": "1. Which area has the best weather?",
+            "options": [
+              "In the south",
+              "In the east",
+              "In the west"
+            ],
+            "answer": "In the east"
+          },
+          {
+            "id": "kt8_p1_q2",
+            "question": "2. Why was the flight cancelled?",
+            "options": [
+              "There are no flight staff",
+              "Plane maintenance",
+              "Poor weather conditions"
+            ],
+            "answer": "Poor weather conditions"
+          },
+          {
+            "id": "kt8_p1_q3",
+            "question": "3. Which door do they need to take to get to Edinburgh?",
+            "options": [
+              "Two",
+              "Three",
+              "Four"
+            ],
+            "answer": "Two"
+          },
+          {
+            "id": "kt8_p1_q4",
+            "question": "4. When did they decide to meet?",
+            "options": [
+              "7am on Friday",
+              "9am on Sunday",
+              "9am on Saturday"
+            ],
+            "answer": "9am on Sunday"
+          },
+          {
+            "id": "kt8_p1_q5",
+            "question": "5. How long does it take to get to the station?",
+            "options": [
+              "15 minutes",
+              "20 minutes",
+              "25 minutes"
+            ],
+            "answer": "20 minutes"
+          },
+          {
+            "id": "kt8_p1_q6",
+            "question": "6. Why was the museum visit cancelled?",
+            "options": [
+              "Join other activities",
+              "Poor weather conditions",
+              "Not enough people"
+            ],
+            "answer": "Not enough people"
+          },
+          {
+            "id": "kt8_p1_q7",
+            "question": "7. What did he usually do last year?",
+            "options": [
+              "Running",
+              "Cycling",
+              "Walking"
+            ],
+            "answer": "Cycling"
+          },
+          {
+            "id": "kt8_p1_q8",
+            "question": "8. Where is the office?",
+            "options": [
+              "Opposite the hotel",
+              "Near the park",
+              "Opposite the station"
+            ],
+            "answer": "Opposite the hotel"
+          },
+          {
+            "id": "kt8_p1_q9",
+            "question": "9. What is his opinion on train travel?",
+            "options": [
+              "Convenient",
+              "Friendly",
+              "Practical"
+            ],
+            "answer": "Practical"
+          },
+          {
+            "id": "kt8_p1_q10",
+            "question": "10. Where is the cafe?",
+            "options": [
+              "Next to the station",
+              "Near the gift shop",
+              "Opposite the gift shop"
+            ],
+            "answer": "Opposite the gift shop"
+          },
+          {
+            "id": "kt8_p1_q11",
+            "question": "11. Who is coming to visit him this weekend?",
+            "options": [
+              "His mother",
+              "His sister",
+              "His sister and her children"
+            ],
+            "answer": "His sister and her children"
+          },
+          {
+            "id": "kt8_p1_q12",
+            "question": "12. Who does she live with?",
+            "options": [
+              "Her colleague",
+              "Her sister",
+              "Best friends"
+            ],
+            "answer": "Best friends"
+          },
+          {
+            "id": "kt8_p1_q13",
+            "question": "13. Why does she want to be a writer?",
+            "options": [
+              "Help people",
+              "Make money",
+              "Her dream"
+            ],
+            "answer": "Help people"
+          }
+        ]
+      },
+      {
+        "type": "matching_sentence",
+        "title": "Task 2: Four people are talking about traveling to work. Complete the sentences below.",
+        "options": [
+          "travel by bus",
+          "travel by car",
+          "walk alone",
+          "walk with a friend"
+        ],
+        "data": [
+          {
+            "id": "kt8_p2_q1",
+            "person": "Person A",
+            "answer": "travel by bus"
+          },
+          {
+            "id": "kt8_p2_q2",
+            "person": "Person B",
+            "answer": "travel by car"
+          },
+          {
+            "id": "kt8_p2_q3",
+            "person": "Person C",
+            "answer": "walk alone"
+          },
+          {
+            "id": "kt8_p2_q4",
+            "person": "Person D",
+            "answer": "walk with a friend"
+          }
+        ]
+      },
+      {
+        "type": "matching_opinion",
+        "title": "Task 3: Listen to a man and a woman discussing urban farming. Who expresses which opinion?",
+        "options": [
+          "Man",
+          "Woman",
+          "Both"
+        ],
+        "data": [
+          {
+            "id": "kt8_p3_q1",
+            "text": "1. Living space is more important than farming space",
+            "answer": "Woman"
+          },
+          {
+            "id": "kt8_p3_q2",
+            "text": "2. Urban farming sites can be visually appealing",
+            "answer": "Both"
+          },
+          {
+            "id": "kt8_p3_q3",
+            "text": "3. Urban farming can benefit local economics",
+            "answer": "Man"
+          },
+          {
+            "id": "kt8_p3_q4",
+            "text": "4. Urban farming cannot meet food needs",
+            "answer": "Both"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 4: Listen to someone talking about script production and answer the questions.",
+        "data": [
+          {
+            "id": "kt8_p4_q1",
+            "question": "1. What is the speaker's opinion on this script?",
+            "options": [
+              "The characters' background are not adequately explored",
+              "The dialogue is unnatural",
+              "The plot is unoriginal"
+            ],
+            "answer": "The characters' background are not adequately explored"
+          },
+          {
+            "id": "kt8_p4_q2",
+            "question": "2. How do industries impact script production?",
+            "options": [
+              "The new industry demands are negatively influencing script production",
+              "They are providing more opportunities for new writers",
+              "They are leading to higher quality scripts"
+            ],
+            "answer": "The new industry demands are negatively influencing script production"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 5: Listen to someone talking about a new restaurant and answer the questions.",
+        "data": [
+          {
+            "id": "kt8_p5_q1",
+            "question": "1. How is this restaurant reviewed by customers?",
+            "options": [
+              "The standard of service wasn’t good",
+              "The food was overpriced",
+              "The atmosphere was lacking"
+            ],
+            "answer": "The standard of service wasn’t good"
+          },
+          {
+            "id": "kt8_p5_q2",
+            "question": "2. What should this restaurant do?",
+            "options": [
+              "They need to make the customers feel valued and welcome",
+              "They need to improve the menu",
+              "They need to lower their prices"
+            ],
+            "answer": "They need to make the customers feel valued and welcome"
+          }
+        ]
+      }
+    ]
+  },
+  "KEY TEST 9": {
+    "title": "Listening Test 9",
+    "parts": [
+      {
+        "type": "multiple_choice",
+        "title": "Task 1: Listen and choose the correct answer for questions 1-13.",
+        "data": [
+          {
+            "id": "kt9_p1_q1",
+            "question": "1. What does he want to be?",
+            "options": [
+              "Reporter",
+              "Chef",
+              "Writer"
+            ],
+            "answer": "Writer"
+          },
+          {
+            "id": "kt9_p1_q2",
+            "question": "2. What does he drink?",
+            "options": [
+              "Tea",
+              "Juice",
+              "Water"
+            ],
+            "answer": "Water"
+          },
+          {
+            "id": "kt9_p1_q3",
+            "question": "3. What will she do?",
+            "options": [
+              "Go to the coffee shop",
+              "Go for a drive",
+              "Go on a picnic"
+            ],
+            "answer": "Go for a drive"
+          },
+          {
+            "id": "kt9_p1_q4",
+            "question": "4. What does she have in common with her mother?",
+            "options": [
+              "They look like each other",
+              "They have similar interests",
+              "They have similar characteristics"
+            ],
+            "answer": "They have similar interests"
+          },
+          {
+            "id": "kt9_p1_q5",
+            "question": "5. What does he buy at the shop?",
+            "options": [
+              "a suit for the office",
+              "a dress for his wife",
+              "new clothes"
+            ],
+            "answer": "a suit for the office"
+          },
+          {
+            "id": "kt9_p1_q6",
+            "question": "6. What do birds do in winter?",
+            "options": [
+              "They look for food reserves",
+              "They stay in groups for protection",
+              "They migrate to other regions"
+            ],
+            "answer": "They stay in groups for protection"
+          },
+          {
+            "id": "kt9_p1_q7",
+            "question": "7. How much are the eggs?",
+            "options": [
+              "1.25 pound",
+              "1.50 pound",
+              "2 pounds"
+            ],
+            "answer": "1.50 pound"
+          },
+          {
+            "id": "kt9_p1_q8",
+            "question": "8. A woman is calling her husband. What time is lunch ready?",
+            "options": [
+              "1pm",
+              "2pm",
+              "3pm"
+            ],
+            "answer": "2pm"
+          },
+          {
+            "id": "kt9_p1_q9",
+            "question": "9. What time is the meeting?",
+            "options": [
+              "2pm",
+              "10am",
+              "11am"
+            ],
+            "answer": "2pm"
+          },
+          {
+            "id": "kt9_p1_q10",
+            "question": "10. Where is the club near?",
+            "options": [
+              "A park",
+              "A library",
+              "A coffee shop"
+            ],
+            "answer": "A park"
+          },
+          {
+            "id": "kt9_p1_q11",
+            "question": "11. What to feed the cat?",
+            "options": [
+              "Milk",
+              "Fish",
+              "Cat food"
+            ],
+            "answer": "Fish"
+          },
+          {
+            "id": "kt9_p1_q12",
+            "question": "12. What does he need to buy for his sister?",
+            "options": [
+              "Chocolates",
+              "Eggs",
+              "Milk"
+            ],
+            "answer": "Chocolates"
+          },
+          {
+            "id": "kt9_p1_q13",
+            "question": "13. Why does she like the manager?",
+            "options": [
+              "He was good at his job",
+              "He paid her a lot",
+              "He taught her a lot"
+            ],
+            "answer": "He taught her a lot"
+          }
+        ]
+      },
+      {
+        "type": "matching_sentence",
+        "title": "Task 2: Four people are talking about studying. Complete the sentences below.",
+        "options": [
+          "In various places",
+          "In a quiet place",
+          "With music",
+          "Late at night"
+        ],
+        "data": [
+          {
+            "id": "kt9_p2_q1",
+            "person": "Person A",
+            "answer": "In various places"
+          },
+          {
+            "id": "kt9_p2_q2",
+            "person": "Person B",
+            "answer": "In a quiet place"
+          },
+          {
+            "id": "kt9_p2_q3",
+            "person": "Person C",
+            "answer": "With music"
+          },
+          {
+            "id": "kt9_p2_q4",
+            "person": "Person D",
+            "answer": "Late at night"
+          }
+        ]
+      },
+      {
+        "type": "matching_opinion",
+        "title": "Task 3: Listen to a man and a woman discussing the politics. Who expresses which opinion?",
+        "options": [
+          "Man",
+          "Woman",
+          "Both"
+        ],
+        "data": [
+          {
+            "id": "kt9_p3_q1",
+            "text": "1. Young people are becoming more interested in politics",
+            "answer": "Both"
+          },
+          {
+            "id": "kt9_p3_q2",
+            "text": "2. Social media has changed political activism",
+            "answer": "Man"
+          },
+          {
+            "id": "kt9_p3_q3",
+            "text": "3. People are better informed political issues",
+            "answer": "Woman"
+          },
+          {
+            "id": "kt9_p3_q4",
+            "text": "4. More women are likely to participate in politics",
+            "answer": "Both"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 4: Listen to someone talking about making plans and answer the questions.",
+        "data": [
+          {
+            "id": "kt9_p4_q1",
+            "question": "1. How does creating each small plan help you?",
+            "options": [
+              "They help you make decisions",
+              "They provide a sense of accomplishment",
+              "They keep you motivated"
+            ],
+            "answer": "They help you make decisions"
+          },
+          {
+            "id": "kt9_p4_q2",
+            "question": "2. How does creating a plan help you in general?",
+            "options": [
+              "It requires you to set yourself certain limits",
+              "It helps you stay organized",
+              "It reduces stress"
+            ],
+            "answer": "It requires you to set yourself certain limits"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 5: Listen to someone talking about a promotion campaign for a product and answer the questions.",
+        "data": [
+          {
+            "id": "kt9_p5_q1",
+            "question": "1. What do people think about this promotion campaign?",
+            "options": [
+              "It is making exaggerated claims",
+              "It is very creative",
+              "It is not memorable"
+            ],
+            "answer": "It is making exaggerated claims"
+          },
+          {
+            "id": "kt9_p5_q2",
+            "question": "2. What does the speaker think about this campaign?",
+            "options": [
+              "It costs too much to make to be profitable",
+              "It will be very successful",
+              "It is unethical"
+            ],
+            "answer": "It costs too much to make to be profitable"
+          }
+        ]
+      }
+    ]
+  },
+  "KEY TEST 10": {
+    "title": "Listening Test 10",
+    "parts": [
+      {
+        "type": "multiple_choice",
+        "title": "Task 1: Listen and choose the correct answer for questions 1-13.",
+        "data": [
+          {
+            "id": "kt10_p1_q1",
+            "question": "1. What does she usually do in the evening?",
+            "options": [
+              "listen to music",
+              "go for a walk",
+              "go to the coffee shop"
+            ],
+            "answer": "go for a walk"
+          },
+          {
+            "id": "kt10_p1_q2",
+            "question": "2. What day do they meet?",
+            "options": [
+              "Tuesday",
+              "Thursday",
+              "Friday"
+            ],
+            "answer": "Tuesday"
+          },
+          {
+            "id": "kt10_p1_q3",
+            "question": "3. A woman is talking about her job. How is being a writer different from other jobs?",
+            "options": [
+              "She works irregular time",
+              "She does not have a high salary",
+              "She has no fixed workplace"
+            ],
+            "answer": "She works irregular time"
+          },
+          {
+            "id": "kt10_p1_q4",
+            "question": "4. Where does she buy food?",
+            "options": [
+              "at a local market",
+              "at a convenient store",
+              "at a new shopping centre"
+            ],
+            "answer": "at a new shopping centre"
+          },
+          {
+            "id": "kt10_p1_q5",
+            "question": "5. What time is the football match?",
+            "options": [
+              "1pm",
+              "7pm",
+              "4pm"
+            ],
+            "answer": "1pm"
+          },
+          {
+            "id": "kt10_p1_q6",
+            "question": "6. What does she drink for lunch?",
+            "options": [
+              "Tea",
+              "Water",
+              "Iced tea"
+            ],
+            "answer": "Tea"
+          },
+          {
+            "id": "kt10_p1_q7",
+            "question": "7. What colour is the teacher's house?",
+            "options": [
+              "Blue",
+              "Red",
+              "White"
+            ],
+            "answer": "White"
+          },
+          {
+            "id": "kt10_p1_q8",
+            "question": "8. How much are the eggs?",
+            "options": [
+              "1.25 pound",
+              "2 pounds",
+              "2.50 pounds"
+            ],
+            "answer": "2.50 pounds"
+          },
+          {
+            "id": "kt10_p1_q9",
+            "question": "9. What does she do on her holidays?",
+            "options": [
+              "Drawing",
+              "Walking",
+              "Cooking"
+            ],
+            "answer": "Walking"
+          },
+          {
+            "id": "kt10_p1_q10",
+            "question": "10. What do they both buy?",
+            "options": [
+              "Books",
+              "Trousers",
+              "Clothes"
+            ],
+            "answer": "Clothes"
+          },
+          {
+            "id": "kt10_p1_q11",
+            "question": "11. What are the similarities between his mom and aunt?",
+            "options": [
+              "They were thin",
+              "They have the same eye color",
+              "They have the same hair color"
+            ],
+            "answer": "They were thin"
+          },
+          {
+            "id": "kt10_p1_q12",
+            "question": "12. How many Americans are there?",
+            "options": [
+              "one",
+              "two",
+              "three"
+            ],
+            "answer": "one"
+          },
+          {
+            "id": "kt10_p1_q13",
+            "question": "13. How many weeks have they been in India?",
+            "options": [
+              "1 week",
+              "2 weeks",
+              "3 weeks"
+            ],
+            "answer": "2 weeks"
+          }
+        ]
+      },
+      {
+        "type": "matching_sentence",
+        "title": "Task 2: Four people are talking about using the internet. Complete the sentences below.",
+        "options": [
+          "watch films",
+          "communicate with friends",
+          "complete assignments",
+          "find transport information"
+        ],
+        "data": [
+          {
+            "id": "kt10_p2_q1",
+            "person": "Person A",
+            "answer": "watch films"
+          },
+          {
+            "id": "kt10_p2_q2",
+            "person": "Person B",
+            "answer": "communicate with friends"
+          },
+          {
+            "id": "kt10_p2_q3",
+            "person": "Person C",
+            "answer": "complete assignments"
+          },
+          {
+            "id": "kt10_p2_q4",
+            "person": "Person D",
+            "answer": "find transport information"
+          }
+        ]
+      },
+      {
+        "type": "matching_opinion",
+        "title": "Task 3: Listen to a man and a woman discussing the community. Who expresses which opinion?",
+        "options": [
+          "Man",
+          "Woman",
+          "Both"
+        ],
+        "data": [
+          {
+            "id": "kt10_p3_q1",
+            "text": "1. Community events are important for social cohesion.",
+            "answer": "Both"
+          },
+          {
+            "id": "kt10_p3_q2",
+            "text": "2. Modern life has weakened community ties.",
+            "answer": "Woman"
+          },
+          {
+            "id": "kt10_p3_q3",
+            "text": "3. Local businesses are vital for the community.",
+            "answer": "Man"
+          },
+          {
+            "id": "kt10_p3_q4",
+            "text": "4. Volunteering is a good way to support the community.",
+            "answer": "Both"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 4: Listen to someone talking about the importance of sleep and answer the questions.",
+        "data": [
+          {
+            "id": "kt10_p4_q1",
+            "question": "1. What is the way to have a good sleep according to the speaker?",
+            "options": [
+              "Blocking out noise and light is key",
+              "Exercising before bed",
+              "Drinking warm milk"
+            ],
+            "answer": "Blocking out noise and light is key"
+          },
+          {
+            "id": "kt10_p4_q2",
+            "question": "2. What is the speaker's view on insomnia in general?",
+            "options": [
+              "People can't always recognize the symptoms of tiredness",
+              "It is a serious medical condition",
+              "It can be cured with medication"
+            ],
+            "answer": "People can't always recognize the symptoms of tiredness"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 5: Listen to someone talking about a book about a life of a scientist and answer the questions.",
+        "data": [
+          {
+            "id": "kt10_p5_q1",
+            "question": "1. Why is the book so popular?",
+            "options": [
+              "It uses simple language to describe complex ideas",
+              "It has beautiful illustrations",
+              "It was written by a famous author"
+            ],
+            "answer": "It uses simple language to describe complex ideas"
+          },
+          {
+            "id": "kt10_p5_q2",
+            "question": "2. What do people criticize about the book?",
+            "options": [
+              "It is similar to the previous book about the scientist",
+              "The ending is disappointing",
+              "It is too long and complicated"
+            ],
+            "answer": "It is similar to the previous book about the scientist"
+          }
+        ]
+      }
+    ]
+  },
+  "KEY TEST 11": {
+    "title": "Listening Test 11",
+    "parts": [
+      {
+        "type": "multiple_choice",
+        "title": "Task 1: Listen and choose the correct answer for questions 1-13.",
+        "data": [
+          {
+            "id": "kt11_p1_q1",
+            "question": "1. What does she usually do in her free time?",
+            "options": [
+              "Go to the theatre and play sports",
+              "Play sports and go shopping",
+              "Stay at home and shop online"
+            ],
+            "answer": "Go to the theatre and play sports"
+          },
+          {
+            "id": "kt11_p1_q2",
+            "question": "2. Where do they go when they travel to India?",
+            "options": [
+              "Go to the park",
+              "Go to famous places",
+              "Go out to eat"
+            ],
+            "answer": "Go to the park"
+          },
+          {
+            "id": "kt11_p1_q3",
+            "question": "3. What outdoor activities do they do in the afternoon?",
+            "options": [
+              "Play golf",
+              "Go to dance classes",
+              "Play bridge"
+            ],
+            "answer": "Play golf"
+          },
+          {
+            "id": "kt11_p1_q4",
+            "question": "4. Where does she walk every night?",
+            "options": [
+              "The university area",
+              "The park",
+              "The college"
+            ],
+            "answer": "The college"
+          },
+          {
+            "id": "kt11_p1_q5",
+            "question": "5. How many chairs do they need to prepare for a meeting?",
+            "options": [
+              "10",
+              "20",
+              "30"
+            ],
+            "answer": "20"
+          },
+          {
+            "id": "kt11_p1_q6",
+            "question": "6. Where did she ask the coffee shop to look for her lost item?",
+            "options": [
+              "On the sofa",
+              "In the corner",
+              "On the table"
+            ],
+            "answer": "In the corner"
+          },
+          {
+            "id": "kt11_p1_q7",
+            "question": "7. Where did they meet?",
+            "options": [
+              "The parking lot",
+              "The front entrance",
+              "The school gate"
+            ],
+            "answer": "The front entrance"
+          },
+          {
+            "id": "kt11_p1_q8",
+            "question": "8. The daughter is calling her father. What did she buy?",
+            "options": [
+              "Trousers",
+              "A dress",
+              "Glasses"
+            ],
+            "answer": "A dress"
+          },
+          {
+            "id": "kt11_p1_q9",
+            "question": "9. There will be a school party soon, what should the teacher prepare?",
+            "options": [
+              "Prepare drinks",
+              "Arrange the seat",
+              "Order the food"
+            ],
+            "answer": "Order the food"
+          },
+          {
+            "id": "kt11_p1_q10",
+            "question": "10. When will she need a computer?",
+            "options": [
+              "Friday",
+              "Thursday",
+              "Monday"
+            ],
+            "answer": "Friday"
+          },
+          {
+            "id": "kt11_p1_q11",
+            "question": "11. What country will they study next semester?",
+            "options": [
+              "France",
+              "Italy",
+              "Germany"
+            ],
+            "answer": "France"
+          },
+          {
+            "id": "kt11_p1_q12",
+            "question": "12. What do they need to repair for the building?",
+            "options": [
+              "Windows",
+              "Doors",
+              "Gate"
+            ],
+            "answer": "Windows"
+          },
+          {
+            "id": "kt11_p1_q13",
+            "question": "13. What does the actor like to do?",
+            "options": [
+              "Jogging",
+              "Swimming",
+              "Drawing"
+            ],
+            "answer": "Drawing"
+          }
+        ]
+      },
+      {
+        "type": "matching_sentence",
+        "title": "Task 2: Four people are talking about studying (2). Complete the sentences below.",
+        "options": [
+          "In the coffee shop",
+          "In the park",
+          "On public transport",
+          "At home"
+        ],
+        "data": [
+          {
+            "id": "kt11_p2_q1",
+            "person": "Person A",
+            "answer": "In the coffee shop"
+          },
+          {
+            "id": "kt11_p2_q2",
+            "person": "Person B",
+            "answer": "In the park"
+          },
+          {
+            "id": "kt11_p2_q3",
+            "person": "Person C",
+            "answer": "On public transport"
+          },
+          {
+            "id": "kt11_p2_q4",
+            "person": "Person D",
+            "answer": "At home"
+          }
+        ]
+      },
+      {
+        "type": "matching_opinion",
+        "title": "Task 3: Listen to a man and a woman discussing the local festivals. Who expresses which opinion?",
+        "options": [
+          "Man",
+          "Woman",
+          "Both"
+        ],
+        "data": [
+          {
+            "id": "kt11_p3_q1",
+            "text": "1. Exhibitions should be different and diverse",
+            "answer": "Man"
+          },
+          {
+            "id": "kt11_p3_q2",
+            "text": "2. Traditional customs are gradually losing their significance",
+            "answer": "Both"
+          },
+          {
+            "id": "kt11_p3_q3",
+            "text": "3. Local festivals will disappear soon in the near future",
+            "answer": "Woman"
+          },
+          {
+            "id": "kt11_p3_q4",
+            "text": "4. Schools are important to shaping future generations",
+            "answer": "Woman"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 4: Listen to someone talking about work from home and answer the questions.",
+        "data": [
+          {
+            "id": "kt11_p4_q1",
+            "question": "1. How does she feel about working from home?",
+            "options": [
+              "It wasn't as good as she expected",
+              "It was more productive",
+              "It was isolating"
+            ],
+            "answer": "It wasn't as good as she expected"
+          },
+          {
+            "id": "kt11_p4_q2",
+            "question": "2. What is her opinion on working from home in general?",
+            "options": [
+              "It depends on your situation and personality",
+              "It is the future of work",
+              "It is not suitable for most jobs"
+            ],
+            "answer": "It depends on your situation and personality"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 5: Listen to someone talking about managing financial spending and answer the questions.",
+        "data": [
+          {
+            "id": "kt11_p5_q1",
+            "question": "1. What should you do to better control your short-term spending?",
+            "options": [
+              "Monitor your spending for a weekly plan",
+              "Cut unnecessary expenses",
+              "Create a budget"
+            ],
+            "answer": "Monitor your spending for a weekly plan"
+          },
+          {
+            "id": "kt11_p5_q2",
+            "question": "2. What should you do to better control your long-term spending?",
+            "options": [
+              "Seek advice from someone who have experience",
+              "Invest in stocks",
+              "Set financial goals"
+            ],
+            "answer": "Seek advice from someone who have experience"
+          }
+        ]
+      }
+    ]
+  },
+  "KEY TEST 12": {
+    "title": "Listening Test 12",
+    "parts": [
+      {
+        "type": "multiple_choice",
+        "title": "Task 1: Listen and choose the correct answer for questions 1-13.",
+        "data": [
+          {
+            "id": "kt12_p1_q1",
+            "question": "1. What new thing is being built at the school?",
+            "options": [
+              "A stadium",
+              "A Performance space",
+              "A school yard"
+            ],
+            "answer": "A Performance space"
+          },
+          {
+            "id": "kt12_p1_q2",
+            "question": "2. What does he advise young people to do to save money?",
+            "options": [
+              "Cook for yourself",
+              "Save money",
+              "Buy things online"
+            ],
+            "answer": "Cook for yourself"
+          },
+          {
+            "id": "kt12_p1_q3",
+            "question": "3. What does he like about Dubai?",
+            "options": [
+              "He gets a higher salary",
+              "He enjoys the weather here",
+              "He enjoys his job here"
+            ],
+            "answer": "He enjoys his job here"
+          },
+          {
+            "id": "kt12_p1_q4",
+            "question": "4. A man is talking to his son's teacher. What will he do?",
+            "options": [
+              "Arrange private classes",
+              "Do homework with his son",
+              "Arrange sports classes"
+            ],
+            "answer": "Arrange private classes"
+          },
+          {
+            "id": "kt12_p1_q5",
+            "question": "5. Why did she become a scientist?",
+            "options": [
+              "a large stone",
+              "her dream",
+              "her favorite collection"
+            ],
+            "answer": "a large stone"
+          },
+          {
+            "id": "kt12_p1_q6",
+            "question": "6. How many minutes did he have to speak?",
+            "options": [
+              "10",
+              "15",
+              "25"
+            ],
+            "answer": "15"
+          },
+          {
+            "id": "kt12_p1_q7",
+            "question": "7. What means of transport does he use to get to work?",
+            "options": [
+              "by bus",
+              "by train",
+              "by car"
+            ],
+            "answer": "by bus"
+          },
+          {
+            "id": "kt12_p1_q8",
+            "question": "8. What does this family do most weekends?",
+            "options": [
+              "goes with their friends",
+              "goes bowling",
+              "goes for a walk"
+            ],
+            "answer": "goes for a walk"
+          },
+          {
+            "id": "kt12_p1_q9",
+            "question": "9. What does he remember most about his school days?",
+            "options": [
+              "Homework",
+              "History classes",
+              "Teachers"
+            ],
+            "answer": "History classes"
+          },
+          {
+            "id": "kt12_p1_q10",
+            "question": "10. What is special about the new song?",
+            "options": [
+              "The singer",
+              "The words",
+              "The melody"
+            ],
+            "answer": "The words"
+          },
+          {
+            "id": "kt12_p1_q11",
+            "question": "11. What time does the train leave? (for him to go on a business trip)",
+            "options": [
+              "9.45",
+              "8.45",
+              "9.15"
+            ],
+            "answer": "9.15"
+          },
+          {
+            "id": "kt12_p1_q12",
+            "question": "12. What does she have in common with her mother?",
+            "options": [
+              "They look like each other",
+              "They have similar interests",
+              "They have similar characteristics"
+            ],
+            "answer": "They have similar interests"
+          },
+          {
+            "id": "kt12_p1_q13",
+            "question": "13. What did she advise for people who lack motivation at work?",
+            "options": [
+              "quit the job",
+              "ask for a salary increase",
+              "request a transfer"
+            ],
+            "answer": "request a transfer"
+          }
+        ]
+      },
+      {
+        "type": "matching_sentence",
+        "title": "Task 2: Four people are talking about studying (2). Complete the sentences below.",
+        "options": [
+          "In the coffee shop",
+          "In the park",
+          "On public transport",
+          "At home"
+        ],
+        "data": [
+          {
+            "id": "kt12_p2_q1",
+            "person": "Person A",
+            "answer": "In the coffee shop"
+          },
+          {
+            "id": "kt12_p2_q2",
+            "person": "Person B",
+            "answer": "In the park"
+          },
+          {
+            "id": "kt12_p2_q3",
+            "person": "Person C",
+            "answer": "On public transport"
+          },
+          {
+            "id": "kt12_p2_q4",
+            "person": "Person D",
+            "answer": "At home"
+          }
+        ]
+      },
+      {
+        "type": "matching_opinion",
+        "title": "Task 3: Listen to a man and a woman discussing the community. Who expresses which opinion?",
+        "options": [
+          "Man",
+          "Woman",
+          "Both"
+        ],
+        "data": [
+          {
+            "id": "kt12_p3_q1",
+            "text": "1. Community events are important for social cohesion.",
+            "answer": "Both"
+          },
+          {
+            "id": "kt12_p3_q2",
+            "text": "2. Modern life has weakened community ties.",
+            "answer": "Woman"
+          },
+          {
+            "id": "kt12_p3_q3",
+            "text": "3. Local businesses are vital for the community.",
+            "answer": "Man"
+          },
+          {
+            "id": "kt12_p3_q4",
+            "text": "4. Volunteering is a good way to support the community.",
+            "answer": "Both"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 4: Listen to someone talking about the importance of sleep and answer the questions.",
+        "data": [
+          {
+            "id": "kt12_p4_q1",
+            "question": "1. What is the way to have a good sleep according to the speaker?",
+            "options": [
+              "Blocking out noise and light is key",
+              "Exercising before bed",
+              "Drinking warm milk"
+            ],
+            "answer": "Blocking out noise and light is key"
+          },
+          {
+            "id": "kt12_p4_q2",
+            "question": "2. What is the speaker's view on insomnia in general?",
+            "options": [
+              "People can't always recognize the symptoms of tiredness",
+              "It is a serious medical condition",
+              "It can be cured with medication"
+            ],
+            "answer": "People can't always recognize the symptoms of tiredness"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 5: Listen to someone talking about a book about a life of a scientist and answer the questions.",
+        "data": [
+          {
+            "id": "kt12_p5_q1",
+            "question": "1. Why is the book so popular?",
+            "options": [
+              "It uses simple language to describe complex ideas",
+              "It was written by a famous author",
+              "It has beautiful illustrations"
+            ],
+            "answer": "It uses simple language to describe complex ideas"
+          },
+          {
+            "id": "kt12_p5_q2",
+            "question": "2. What do people criticize about the book?",
+            "options": [
+              "It is similar to the previous book about the scientist",
+              "It is too long and complicated",
+              "The ending is disappointing"
+            ],
+            "answer": "It is similar to the previous book about the scientist"
+          }
+        ]
+      }
+    ]
+  },
+  "KEY TEST 13": {
+    "title": "Listening Test 13",
+    "parts": [
+      {
+        "type": "multiple_choice",
+        "title": "Task 1: Listen and choose the correct answer for questions 1-13.",
+        "data": [
+          {
+            "id": "kt13_p1_q1",
+            "question": "1. What is she talking about?",
+            "options": [
+              "Her favorite hobby",
+              "Her journey to work",
+              "Her weekend plans"
+            ],
+            "answer": "Her journey to work"
+          },
+          {
+            "id": "kt13_p1_q2",
+            "question": "2. What is the woman going to do?",
+            "options": [
+              "Have coffee",
+              "Have lunch",
+              "Drink tea"
+            ],
+            "answer": "Have coffee"
+          },
+          {
+            "id": "kt13_p1_q3",
+            "question": "3. Which part of the cabinet is original?",
+            "options": [
+              "The drawer",
+              "The doors",
+              "The handles"
+            ],
+            "answer": "The drawer"
+          },
+          {
+            "id": "kt13_p1_q4",
+            "question": "4. What shouldn't they do?",
+            "options": [
+              "Ask for more money.",
+              "Spend too much on clothes.",
+              "Save for emergencies."
+            ],
+            "answer": "Ask for more money."
+          },
+          {
+            "id": "kt13_p1_q5",
+            "question": "5. What is the main reason he gets late?",
+            "options": [
+              "Overslept",
+              "Forgot something",
+              "Missed the train"
+            ],
+            "answer": "Missed the train"
+          },
+          {
+            "id": "kt13_p1_q6",
+            "question": "6. David is in an interview. What was his last job?",
+            "options": [
+              "A teacher",
+              "An engineer",
+              "An electrician"
+            ],
+            "answer": "An electrician"
+          },
+          {
+            "id": "kt13_p1_q7",
+            "question": "7. What is this building currently used for?",
+            "options": [
+              "A museum",
+              "A department store",
+              "A cinema"
+            ],
+            "answer": "A department store"
+          },
+          {
+            "id": "kt13_p1_q8",
+            "question": "8. What time does the movie begin?",
+            "options": [
+              "6:40",
+              "7:00",
+              "9:20"
+            ],
+            "answer": "6:40"
+          },
+          {
+            "id": "kt13_p1_q9",
+            "question": "9. A man is calling his mother. How long will he be late?",
+            "options": [
+              "10 minutes",
+              "15 minutes",
+              "20 minutes"
+            ],
+            "answer": "15 minutes"
+          },
+          {
+            "id": "kt13_p1_q10",
+            "question": "10. The man is talking about his key. Where did he find the key?",
+            "options": [
+              "In his car",
+              "In the front door",
+              "In the bedroom"
+            ],
+            "answer": "In the front door"
+          },
+          {
+            "id": "kt13_p1_q11",
+            "question": "11. A man is talking about his job. Where is he working now?",
+            "options": [
+              "In a bank",
+              "At a university",
+              "In a big company"
+            ],
+            "answer": "In a bank"
+          },
+          {
+            "id": "kt13_p1_q12",
+            "question": "12. What advice does she give to save money?",
+            "options": [
+              "Buy in bulk",
+              "Put money into the bank",
+              "Use the public transport"
+            ],
+            "answer": "Use the public transport"
+          },
+          {
+            "id": "kt13_p1_q13",
+            "question": "13. Where is the library located?",
+            "options": [
+              "In front of the square",
+              "On the left of the square",
+              "Behind the square"
+            ],
+            "answer": "On the left of the square"
+          }
+        ]
+      },
+      {
+        "type": "matching_sentence",
+        "title": "Task 2: Four people are talking about online shopping.",
+        "context": [
+          {
+            "person": "Person A",
+            "text": "I used to be the person who didn’t like shopping online, but ever since I experienced home delivery, I no longer shop in stores. When I shop online, the delivery person brings the package right to my door, even up to my floor, and knocks on my apartment door, so I don’t even need to step outside. I really enjoy this convenience."
+          },
+          {
+            "person": "Person B",
+            "text": "Shopping online has helped me save quite a bit of money. After a few months of online shopping, I was able to save enough to buy a new bicycle. But don't get me wrong, I haven't been eating any less or cutting back on the groceries I buy. It's just that online shopping allows me to compare prices and choose the store with the best deal."
+          },
+          {
+            "person": "Person C",
+            "text": "I’m a pretty busy person, and I often don’t have enough time because of my hectic work schedule. That’s why I always shop online to save time. This way, I don’t need to go to the store in person, and someone will deliver the items directly to me. Additionally, online shopping is very convenient because, with just a few clicks, I can buy everything I want without having to go from one store to another."
+          },
+          {
+            "person": "Person D",
+            "text": "I don't shop online because it's cheaper or because of the fast shipping. I shop online because, when browsing online stores, I have a wide range of choices. For the same item, there are many different types and brands for me to choose from and compare, which allows me to pick the one I like the most."
+          }
+        ],
+        "options": [
+          "The products are delivered",
+          "It is cheaper",
+          "It saves time",
+          "There are more choices"
+        ],
+        "data": [
+          {
+            "id": "kt13_p2_q1",
+            "person": "Person A",
+            "answer": "The products are delivered"
+          },
+          {
+            "id": "kt13_p2_q2",
+            "person": "Person B",
+            "answer": "It is cheaper"
+          },
+          {
+            "id": "kt13_p2_q3",
+            "person": "Person C",
+            "answer": "It saves time"
+          },
+          {
+            "id": "kt13_p2_q4",
+            "person": "Person D",
+            "answer": "There are more choices"
+          }
+        ]
+      },
+      {
+        "type": "matching_opinion",
+        "title": "Task 3: Listen to a man and a woman discussing the changes in the workplace.",
+        "context": [
+          {
+            "speaker": "W",
+            "text": "I'm thinking about switching to another job."
+          },
+          {
+            "speaker": "M",
+            "text": "Why? Your current job is very stable."
+          },
+          {
+            "speaker": "W",
+            "text": "I think I should try my hand at different fields. The jobs I take should only last around 1-2 years. I don't like staying too long in one job or with one company; that would be really boring. Nowadays, many companies offer temporary jobs, which allows me to try out different fields."
+          },
+          {
+            "speaker": "M",
+            "text": "Oh, but if you stay longer at one company, they might offer you more opportunities for career advancement. I always want to stay long-term with a company that suits me."
+          },
+          {
+            "speaker": "W",
+            "text": "Nowadays, young people who have just graduated from university are very talented and have many qualifications. I'm afraid that if I stick with one job and don't change to accumulate knowledge in various fields, it will be hard to compete with these young, talented people."
+          },
+          {
+            "speaker": "M",
+            "text": "We also need to consider job satisfaction. If we do well, we need to be encouraged and motivated. That helps employees feel that their efforts and contributions to the company are worthwhile."
+          },
+          {
+            "speaker": "W",
+            "text": "You're absolutely right, I couldn't agree more. In this age of technological advancement, many jobs have been replaced by machines. More and more people are losing their jobs due to the development of technology and engineering. I think this is a concerning issue."
+          },
+          {
+            "speaker": "M",
+            "text": "I don't think so. Technology is helping us do our work more quickly, easily, and conveniently than ever. If we know how to leverage technology in our jobs, productivity will increase significantly, which in turn helps develop the economy and society."
+          }
+        ],
+        "options": [
+          "Man",
+          "Woman",
+          "Both"
+        ],
+        "data": [
+          {
+            "id": "kt13_p3_q1",
+            "text": "1. Continuity is important when planning a career.",
+            "answer": "Man"
+          },
+          {
+            "id": "kt13_p3_q2",
+            "text": "2. Job security cannot be guaranteed.",
+            "answer": "Woman"
+          },
+          {
+            "id": "kt13_p3_q3",
+            "text": "3. Job satisfaction is important for motivator.",
+            "answer": "Both"
+          },
+          {
+            "id": "kt13_p3_q4",
+            "text": "4. Technological improvement is good for the economy.",
+            "answer": "Man"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 4: Listen to someone talking about sports at school and answer the questions below.",
+        "data": [
+          {
+            "id": "kt13_p4_q1",
+            "question": "1. Why hasn't he gone to college?",
+            "options": [
+              "He wasn't ready to start higher education",
+              "Exercising before bed",
+              "Drinking warm milk"
+            ],
+            "answer": "He wasn't ready to start higher education"
+          },
+          {
+            "id": "kt13_p4_q2",
+            "question": "2. Why did he decide to travel for 2 years?",
+            "options": [
+              "People can't always recognize the symptoms of tiredness",
+              "It is a serious medical condition",
+              "To be more independent"
+            ],
+            "answer": "To be more independent"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "title": "Task 5: Listen to someone talking about a book about a life of a scientist and answer the questions.",
+        "data": [
+          {
+            "id": "kt13_p5_q1",
+            "question": "1. Why is the book so popular?",
+            "options": [
+              "It uses simple language to describe complex ideas",
+              "It was written by a famous author",
+              "It has beautiful illustrations"
+            ],
+            "answer": "It uses simple language to describe complex ideas"
+          },
+          {
+            "id": "kt13_p5_q2",
+            "question": "2. What do people criticize about the book?",
+            "options": [
+              "It is similar to the previous book about the scientist",
+              "It is too long and complicated",
+              "The ending is disappointing"
+            ],
+            "answer": "It is similar to the previous book about the scientist"
+          }
+        ]
+      }
+    ]
+  }
+}

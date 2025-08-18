@@ -1,0 +1,715 @@
+/* =================================
+   RESET VÀ FONT
+   ================================= */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    line-height: 1.6;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: #2d3748;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+/* =================================
+   CONTAINER CHÍNH
+   ================================= */
+.container {
+    max-width: 1200px;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* =================================
+   HEADINGS
+   ================================= */
+h1, h2 {
+    color: #2d3748;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+h1 {
+    font-size: 2.5rem;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 1.8rem;
+    color: #4a5568;
+    border-bottom: 3px solid #e2e8f0;
+    padding-bottom: 10px;
+    margin-bottom: 25px;
+}
+
+.task h2 {
+    text-align: left;
+    border-bottom: 2px solid #e2e8f0;
+    color: #2d3748;
+}
+
+/* =================================
+   TASK CONTAINERS
+   ================================= */
+.task {
+    background: linear-gradient(145deg, #ffffff 0%, #f7fafc 100%);
+    border: 1px solid #e2e8f0;
+    border-radius: 16px;
+    padding: 30px;
+    margin-bottom: 30px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.task::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+}
+
+.task:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.12);
+}
+
+/* =================================
+   QUESTION GROUPS
+   ================================= */
+.question-group {
+    margin-bottom: 20px;
+    padding: 15px;
+    background: #ffffff;
+    border-radius: 12px;
+    border: 1px solid #e2e8f0;
+    transition: all 0.2s ease;
+}
+
+.question-group:hover {
+    border-color: #cbd5e0;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+/* =================================
+   FORM ELEMENTS
+   ================================= */
+select, input[type="text"] {
+    background: #ffffff;
+    border: 2px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 5px 5px;
+    font-size: 1rem;
+    transition: all 0.2s ease;
+    margin-left: 10px;
+    min-width: 75px;
+    max-width: 95%;
+}
+
+select:focus, input[type="text"]:focus {
+    outline: none;
+    border-color: #667eea;
+    box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+}
+
+select.inline-select {
+    width: auto;
+    max-width: 25%;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+/* =================================
+   BUTTONS
+   ================================= */
+button {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 14px 28px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 8px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+    position: relative;
+    overflow: hidden;
+}
+
+button::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+    transition: left 0.5s;
+}
+
+button:hover::before {
+    left: 100%;
+}
+
+button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4);
+}
+
+button:active {
+    transform: translateY(0);
+}
+
+button#resetBtn, .back-to-main, .back-to-selection {
+    background: linear-gradient(135deg, #718096 0%, #4a5568 100%);
+    box-shadow: 0 4px 15px rgba(113, 128, 150, 0.3);
+}
+
+button#resetBtn:hover, .back-to-main:hover, .back-to-selection:hover {
+    box-shadow: 0 8px 25px rgba(113, 128, 150, 0.4);
+}
+
+/* =================================
+   FEEDBACK
+   ================================= */
+.feedback, .item-feedback {
+    margin-left: 12px;
+    font-weight: 600;
+    font-size: 1.1em;
+    padding: 4px 8px;
+    border-radius: 6px;
+    display: inline-block;
+}
+
+.correct {
+    color: #059669;
+    background: #d1fae5;
+    border: 1px solid #a7f3d0;
+}
+
+.incorrect {
+    color: #dc2626;
+    background: #fee2e2;
+    border: 1px solid #fecaca;
+}
+
+/* =================================
+   RESULTS
+   ================================= */
+.result {
+    text-align: center;
+    font-size: 1.8em;
+    font-weight: 700;
+    margin: 30px 0;
+    padding: 20px;
+    border-radius: 16px;
+    background: linear-gradient(145deg, #ffffff 0%, #f7fafc 100%);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+    border: 2px solid #e2e8f0;
+}
+
+/* Kết quả từng task (Listening) */
+.part-result {
+    text-align: center;
+    margin-top: 12px;
+    padding: 10px 12px;
+    border-radius: 10px;
+    background: linear-gradient(145deg, #ffffff 0%, #f7fafc 100%);
+    border: 2px solid #e2e8f0;
+    font-weight: 600;
+    color: #4a5568;
+}
+
+/* Hide final result by default, only show when there's content */
+#finalResult {
+    display: none;
+    margin: 20px 0;
+}
+
+#finalResult:not(:empty) {
+    display: block;
+}
+
+.result.correct {
+    border-color: #059669;
+    background: linear-gradient(145deg, #d1fae5 0%, #a7f3d0 100%);
+    color: #065f46;
+}
+
+.result.incorrect {
+    border-color: #dc2626;
+    background: linear-gradient(145deg, #fee2e2 0%, #fecaca 100%);
+    color: #991b1b;
+}
+
+/* LISTENING CONTEXT */
+.listening-context {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 16px;
+    margin-bottom: 16px;
+}
+.listening-context .context-line {
+    margin: 6px 0;
+    color: #4a5568;
+    line-height: 1.6;
+}
+
+/* MOBILE ORDERING INTERFACE */
+.mobile-ordering-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin: 20px 0;
+}
+
+.mobile-slot {
+    background: linear-gradient(145deg, #ffffff 0%, #f7fafc 100%);
+    border: 2px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    transition: all 0.3s ease;
+}
+
+.mobile-slot:hover {
+    border-color: #cbd5e0;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.mobile-slot .slot-number {
+    font-weight: 700;
+    color: #4a5568;
+    font-size: 1.1em;
+    min-width: 30px;
+}
+
+.mobile-slot .fixed-sentence {
+    color: #059669;
+    font-weight: 600;
+    flex: 1;
+    padding: 8px;
+    background: #d1fae5;
+    border-radius: 8px;
+}
+
+.mobile-slot .sentence-select {
+    flex: 1;
+    padding: 10px;
+    border: 2px solid #e2e8f0;
+    border-radius: 8px;
+    font-size: 14px;
+    background: white;
+    transition: all 0.2s ease;
+}
+
+.mobile-slot .sentence-select:focus {
+    outline: none;
+    border-color: #667eea;
+    box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+}
+
+.mobile-result {
+    margin-top: 15px;
+    padding: 12px;
+    border-radius: 10px;
+    font-weight: 600;
+    text-align: center;
+    border: 2px solid;
+}
+
+/* =================================
+   BUTTON CONTAINERS
+   ================================= */
+.button-container {
+    text-align: center;
+    margin-top: 30px;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 16px;
+    backdrop-filter: blur(10px);
+}
+
+/* Sticky button container for final controls */
+#final-controls {
+    position: sticky;
+    bottom: 0;
+    z-index: 1000;
+    margin-top: 30px;
+    padding: 20px;
+    background: #f8f9fa;
+    border-top: 1px solid #e9ecef;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Top back button container */
+.top-back-container {
+    position: sticky;
+    top: 0;
+    z-index: 1001;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid #e9ecef;
+    padding: 10px 0;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.back-to-selection-top {
+    background: #6c757d;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.back-to-selection-top:hover {
+    background: #5a6268;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+#test-buttons, #skill-buttons, #mode-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin: 20px 0;
+}
+
+#skill-buttons button {
+    padding: 25px 40px;
+    font-size: 1.3em;
+    min-width: 200px;
+}
+
+/* =================================
+   DRAG AND DROP
+   ================================= */
+.drag-drop-container {
+    display: flex;
+    gap: 40px;
+    margin: 30px 0;
+    flex-wrap: wrap;
+}
+
+.sentences-list, .slots-container {
+    flex: 1;
+    min-width: 350px;
+}
+
+.sentences-list h3, .slots-container h3 {
+    color: #4a5568;
+    margin-bottom: 20px;
+    font-size: 1.3em;
+    font-weight: 600;
+}
+
+.draggable-sentence {
+    background: linear-gradient(145deg, #f7fafc 0%, #edf2f7 100%);
+    border: 2px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 16px;
+    margin: 12px 0;
+    cursor: grab;
+    transition: all 0.3s ease;
+    user-select: none;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.draggable-sentence:hover {
+    background: linear-gradient(145deg, #edf2f7 0%, #e2e8f0 100%);
+    border-color: #cbd5e0;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.draggable-sentence.dragging {
+    opacity: 0.8;
+    transform: scale(1.02) rotate(2deg);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
+}
+
+.draggable-sentence.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    pointer-events: none;
+}
+
+.slot {
+    background: linear-gradient(145deg, #ffffff 0%, #f7fafc 100%);
+    border: 2px dashed #cbd5e0;
+    border-radius: 12px;
+    padding: 20px;
+    margin: 15px 0;
+    min-height: 70px;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+}
+
+.slot:hover {
+    border-color: #a0aec0;
+    background: linear-gradient(145deg, #f7fafc 0%, #edf2f7 100%);
+}
+
+.slot.correct {
+    border-color: #059669;
+    background: linear-gradient(145deg, #d1fae5 0%, #a7f3d0 100%);
+}
+
+.slot.incorrect {
+    border-color: #dc2626;
+    background: linear-gradient(145deg, #fee2e2 0%, #fecaca 100%);
+}
+
+.slot-number {
+    font-weight: 700;
+    color: #4a5568;
+    margin-right: 15px;
+    font-size: 1.1em;
+    min-width: 30px;
+}
+
+.slot-text {
+    color: #718096;
+    font-style: italic;
+    flex: 1;
+}
+
+.slot[data-position="1"] {
+    background: linear-gradient(145deg, #e6fffa 0%, #b2f5ea 100%);
+    border: 2px solid #38b2ac;
+    color: #234e52;
+}
+
+.slot[data-position="1"] .slot-text {
+    color: #234e52;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.drag-drop-result {
+    text-align: center;
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 12px;
+    font-weight: 600;
+    font-size: 1.1em;
+    background: linear-gradient(145deg, #ffffff 0%, #f7fafc 100%);
+    border: 2px solid #e2e8f0;
+}
+
+/* =================================
+   READING TEXT
+   ================================= */
+.reading-text {
+    background: linear-gradient(145deg, #f7fafc 0%, #edf2f7 100%);
+    border-left: 4px solid #667eea;
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 0 12px 12px 0;
+    line-height: 1.7;
+    font-size: 1.05em;
+}
+
+/* =================================
+   RESPONSIVE DESIGN
+   ================================= */
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+    
+    .container {
+        padding: 20px;
+        border-radius: 16px;
+    }
+    
+    h1 {
+        font-size: 2rem;
+    }
+    
+    h2 {
+        font-size: 1.5rem;
+    }
+    
+    .task {
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+    
+    .drag-drop-container {
+        flex-direction: column;
+        gap: 20px;
+    }
+    
+    .sentences-list, .slots-container {
+        min-width: auto;
+        width: 100%;
+    }
+    
+    .draggable-sentence {
+        padding: 12px;
+        margin: 8px 0;
+        font-size: 0.95rem;
+    }
+    
+    .slot {
+        padding: 15px;
+        margin: 10px 0;
+        min-height: 60px;
+    }
+    
+    button {
+        padding: 12px 20px;
+        font-size: 14px;
+        margin: 5px;
+    }
+    
+    #skill-buttons button {
+        padding: 18px 25px;
+        font-size: 16px;
+        min-width: 150px;
+    }
+    
+    .question-group {
+        padding: 12px;
+        margin-bottom: 15px;
+    }
+    
+    select.inline-select {
+        max-width: 20%;
+        font-size: 14px;
+    }
+    
+    .reading-text {
+        font-size: 0.95rem;
+        padding: 15px;
+    }
+    
+    .result {
+        font-size: 1.4em;
+        padding: 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        padding: 15px;
+    }
+    
+    h1 {
+        font-size: 1.8rem;
+    }
+    
+    .task {
+        padding: 15px;
+    }
+    
+    button {
+        padding: 8px 16px;
+        font-size: 13px;
+        margin: 3px;
+    }
+    
+    #skill-buttons button {
+        padding: 15px 20px;
+        font-size: 15px;
+        min-width: 120px;
+    }
+    
+    .draggable-sentence {
+        padding: 10px;
+        font-size: 0.9rem;
+    }
+    
+    .slot {
+        padding: 12px;
+        min-height: 50px;
+    }
+}
+
+/* =================================
+   ANIMATIONS
+   ================================= */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.task {
+    animation: fadeIn 0.6s ease-out;
+}
+
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateX(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.question-group {
+    animation: slideIn 0.4s ease-out;
+}
+
+/* =================================
+   SCROLLBAR STYLING
+   ================================= */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(135deg, #5a67d8 0%, #6b46c1 100%);
+}
