@@ -6,6 +6,11 @@ let allSkillData = {};
 let taskScores = {}; // Lưu trữ điểm số của từng task
 let currentMode = null; // 'practice' hoặc 'mock'
 
+// Biến cho timer đếm ngược
+let countdownTimer = null;
+let timeLeft = 2100; // 45 phút = 2700 giây
+let isTimerRunning = false;
+
 /* =================================
    KHỞI TẠO VÀ TẢI DỮ LIỆU
    ================================= */
@@ -68,10 +73,14 @@ function showScreen(screenId) {
 }
 
 function showMainMenu() {
+    // Dừng timer khi quay lại màn hình chính
+    stopCountdownTimer();
     showScreen('main-menu');
 }
 
 function showSkillSelection(mode) {
+    // Dừng timer khi chọn skill mới
+    stopCountdownTimer();
     currentMode = mode;
     const title = (mode === 'practice') ? 'Luyện tập' : 'Thi thử';
     document.getElementById('skill-selection-title').textContent = title;
@@ -151,9 +160,13 @@ function displayTest(testData) {
     if (currentMode === 'mock') {
         finalControls.style.display = 'block';
         topBackButton.style.display = 'none';
+        // Bắt đầu timer đếm ngược cho chế độ thi thử
+        startCountdownTimer();
     } else {
         finalControls.style.display = 'none';
         topBackButton.style.display = 'block';
+        // Đảm bảo timer không chạy trong chế độ luyện tập
+        stopCountdownTimer();
     }
 
     clearAllFeedback();
@@ -161,6 +174,11 @@ function displayTest(testData) {
 }
 
 function resetCurrentTest() {
+    // Reset timer khi làm lại bài thi
+    if (currentMode === 'mock') {
+        resetTimer();
+    }
+    
     if (currentMode === 'practice') {
         loadTest(currentTestId);
     } else {
@@ -332,6 +350,11 @@ function checkAnswers(taskId) {
     }
     // CHỈ KHÓA INPUT KHI NỘP TOÀN BÀI (KHÔNG KHÓA KHI taskId != null)
     if (!taskId) {
+        // Dừng timer khi nộp toàn bài
+        if (currentMode === 'mock') {
+            stopCountdownTimer();
+        }
+        
         disableTestInputs();
         // Nếu là mock test, chấm điểm toàn bộ bài thi
         if (currentMode === 'mock') {
@@ -430,5 +453,91 @@ function initDragAndDrop() {
                 return closest;
             }
         }, { offset: Number.NEGATIVE_INFINITY }).element;
+    }
+}
+
+/* =================================
+   CHỨC NĂNG TIMER ĐẾM NGƯỢC
+   ================================= */
+function startCountdownTimer() {
+    if (currentMode !== 'mock') return; // Chỉ hoạt động trong chế độ thi thử
+    
+    // Reset timer
+    timeLeft = 2100; // 45 phút
+    isTimerRunning = true;
+    
+    // Hiển thị timer
+    const timerContainer = document.getElementById('timer-container');
+    const timerValue = document.getElementById('timer-value');
+    
+    if (timerContainer) {
+        timerContainer.style.display = 'block';
+    }
+    
+    // Cập nhật hiển thị ngay lập tức
+    updateTimerDisplay();
+    
+    // Bắt đầu đếm ngược
+    countdownTimer = setInterval(() => {
+        timeLeft--;
+        updateTimerDisplay();
+        
+        // Kiểm tra cảnh báo thời gian
+        if (timeLeft <= 300 && timeLeft > 60) { // 5 phút cuối
+            timerValue.className = 'warning';
+        } else if (timeLeft <= 60) { // 1 phút cuối
+            timerValue.className = 'danger';
+        }
+        
+        // Hết thời gian - tự động nộp bài
+        if (timeLeft <= 0) {
+            autoSubmitTest();
+        }
+    }, 1000);
+}
+
+function stopCountdownTimer() {
+    if (countdownTimer) {
+        clearInterval(countdownTimer);
+        countdownTimer = null;
+    }
+    isTimerRunning = false;
+    
+    // Ẩn timer
+    const timerContainer = document.getElementById('timer-container');
+    if (timerContainer) {
+        timerContainer.style.display = 'none';
+    }
+}
+
+function updateTimerDisplay() {
+    const timerValue = document.getElementById('timer-value');
+    if (!timerValue) return;
+    
+    const minutes = Math.floor(timeLeft / 60);
+    const seconds = timeLeft % 60;
+    
+    const formattedTime = `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+    timerValue.textContent = formattedTime;
+}
+
+function autoSubmitTest() {
+    stopCountdownTimer();
+    
+    // Hiển thị thông báo hết thời gian
+    alert('Hết thời gian! Bài thi sẽ được tự động nộp.');
+    
+    // Tự động nộp bài
+    checkAnswers(null);
+}
+
+function resetTimer() {
+    stopCountdownTimer();
+    timeLeft = 2100;
+    
+    const timerValue = document.getElementById('timer-value');
+    if (timerValue) {
+        timerValue.className = '';
+        updateTimerDisplay();
     }
 }
